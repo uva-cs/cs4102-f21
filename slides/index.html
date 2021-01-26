@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>CS4102 - Algorithms</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="../markdown.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="cs4102---algorithms">CS4102 - Algorithms</h1>
+<p><a href="../readme.html">Back to Main Page</a></p>
+<h2 id="schedule-and-slides"><a name="introduction"></a>Schedule and Slides</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Module</th>
+<th>Date</th>
+<th>Topic</th>
+<th>Slides</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Course Intro</td>
+<td>Mon. Feb. 1</td>
+<td>Course Introduction</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Divide and Conquer / Sorting</td>
+<td>Wed. Feb. 3</td>
+<td>Standard Algorithms</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Mon. Feb. 8</td>
+<td>Solving Recurrences</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. Feb. 10</td>
+<td>Basic Quicksort</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Mon. Feb. 15</td>
+<td>More Quicksort</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. Feb. 17</td>
+<td>BREAK DAY</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Mon. Feb. 22</td>
+<td>Order Statistics</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. Feb. 24</td>
+<td>Heaps and Heap Sort</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Graphs</td>
+<td>Mon. Mar. 1</td>
+<td>Review of Graphs, BFS</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. Mar. 3</td>
+<td>DFS, Connected Components, Topological Sort</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Mon. Mar. 8</td>
+<td>Shortest Path</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. Mar. 10</td>
+<td>BUFFER DAY</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Mon. Mar. 15</td>
+<td>Prims and Kruskals MST</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. Mar. 17</td>
+<td>Union-Find</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Greedy and Dynamic Programming</td>
+<td>Mon. Mar. 22</td>
+<td>Greedy Intro</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. Mar. 24</td>
+<td>More greedy examples and proofs</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Mon. Mar. 29</td>
+<td>BREAK DAY</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. Mar. 31</td>
+<td>EXTRA BREAK DAY</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Mon. Apr. 5</td>
+<td>More greedy examples</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. Apr. 7</td>
+<td>Dynamic Programming</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Mon. Apr. 12</td>
+<td>More Dynamic Programming</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. Apr. 14</td>
+<td>More Dynamic Programming</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Network Flow and Reductions</td>
+<td>Mon. Apr. 19</td>
+<td>Network Flow</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. Apr. 21</td>
+<td>Max-Flow Min-Cut</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Mon. Apr. 26</td>
+<td>Bi-partite Matching, reductions</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. Apr. 28</td>
+<td>Intro to P, NP, NP-Complete</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Mon. May. 3</td>
+<td>NP-Complete Reductions</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Wed. May. 5</td>
+<td>More Reductions</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="other-useful-stuff"><a name="other"></a>Other Useful Stuff</h2>
+<ul>
+<li><a href="./latexTutorial.pdf">Latex Tutorial</a></li>
+</ul>
+</body>
+</html>
