@@ -37,9 +37,3 @@ CS4102 - Algorithms
 | | Mon. May. 3 | NP-Complete Reductions | |
 | | Wed. May. 5 | More Reductions | |
 
-
-
-<a name="other"></a>Other Useful Stuff
----------------------------------------
-
-- [Latex Tutorial](./latexTutorial.pdf) 
