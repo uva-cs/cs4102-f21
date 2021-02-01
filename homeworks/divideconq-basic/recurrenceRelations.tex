@@ -14,9 +14,9 @@
 \usepackage{amsmath}
 \usepackage{wasysym}
 
-\def\course{CS 2501: DSA2}
-\def\homework{Divide and Conquer - Basic: Recurrence Relations}
-\def\semester{Spring 2020}
+\def\course{CS 4102: Algorithms}
+\def\homework{Divide and Conquer / Sorting Basic: Recurrence Relations}
+\def\semester{Spring 2021}
 
 \newboolean{solution}
 \setboolean{solution}{false}
@@ -123,14 +123,6 @@ Show that $T(n)=2T(\frac{n}{2})+n \in \Omega(nlog(n))$. \emph{Note: We are using
 }
 
 \question[2]{
-Show that $T(n) = 2T(\frac{n}{2}+17)+n \in O(nlog(n))$.
-}
-
-\answer[0 in]{
-...
-}
-
-\question[2]{
 Show that $T(n)=2T(\sqrt{n})+log(n) \in O(log(n)*log(log(n)))$. \emph{Hint: Try creating a new variable m and substituting the equation for m to make it look like a common recurrence we've seen before. Then solve the easier recurrence and substitute n back in for m at the end.}
 }
 
@@ -139,7 +131,7 @@ Show that $T(n)=2T(\sqrt{n})+log(n) \in O(log(n)*log(log(n)))$. \emph{Hint: Try 
 }
 
 \question[2]{
-Show that $T(n)=4T(\frac{n}{2})+n \in \Theta(n^2)$. You'll need to subtract off a lower-order term to make the induction work here.
+Show that $T(n)=4T(\frac{n}{2})+n \in \Theta(n^2)$. You'll need to subtract off a lower-order term to make the induction work here. \emph{Note: we are using big-theta here, so you'll need to prove the upper AND lower bound.}
 }
 
 \answer[0 in]{
@@ -147,7 +139,7 @@ Show that $T(n)=4T(\frac{n}{2})+n \in \Theta(n^2)$. You'll need to subtract off 
 }
 
 \question[2]{
-Show that $T(n)=4T(\frac{n}{3})+n \in \Theta(n^{log_3(4)})$. You'll need to subtract off a lower-order term to make the induction work here.
+Show that $T(n)=4T(\frac{n}{3})+n \in \Theta(n^{log_3(4)})$. You'll need to subtract off a lower-order term to make the induction work here. \emph{Note: we are using big-theta here, so you'll need to prove the upper AND lower bound.}
 }
 
 \answer[0 in]{

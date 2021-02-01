@@ -10,7 +10,7 @@ CS4102 - Algorithms
 
 | Module | Programming Assignment | Written Assignment |
 |--------------------|------------------------|------------------------|
-| Divide and Conquer / Sorting | <a href="./divideconq-advanced/seating.pdf">Seating</a> | Recurrence Relations |
+| Divide and Conquer / Sorting | <a href="./divideconq-advanced/seating.pdf">Seating</a> | <a href="./divideconq-basic/recurrenceRelations.pdf">Recurrence Relations</a> |
 | Graphs / Find-Union | <a href="./find-union/prims.pdf">Wiring a House</a> | Written Problems |
 | Greedy and Dynamic Programming | <a href="./dynamic-basic/drainage.pdf">Drainage</a> | Greedy Proofs |
 | Network Flow and Reductions | <a href="./graphs-advanced/scheduling.pdf">Network Flow</a> | Written |
