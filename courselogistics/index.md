@@ -3,8 +3,12 @@ CS4102 - Algorithms Course Logistics
 
 [Back to main page](../readme.html)
 
-[Lectures](#lectures) | [Textbook](#textbook) |[Quizzes](#quizzes) |  [Homeworks and Grading Policy](#homeworks) | [Final Exam](#final) | [Final Letter Grades](#lettergrades) | 
+[Syllabus](#syllabus) | [Lectures](#lectures) | [Textbook](#textbook) |[Quizzes](#quizzes) |  [Homeworks and Grading Policy](#homeworks) | [Final Exam](#final) | [Final Letter Grades](#lettergrades) | 
 
+<a name="syllabus"></a>Syllabus
+------------------------------------------
+
+The syllabus for the course can be found [here](./syllabus.pdf). Most (but not all) of that information is summarized here.
 
 <a name="lectures"></a>Lectures
 ------------------------------------------
