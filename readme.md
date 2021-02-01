@@ -40,7 +40,7 @@ When you want to bring in the updates from the main dsa1 github repository into 
 <a name="description"></a>Course Description
 --------------------------------------------
 
-TODO: ADD COURSE DESCRIPTION
+Introduces the analysis of algorithms and the effects of data structures on them. Algorithms selected from areas such as sorting, searching, shortest paths, greedy algorithms, backtracking, divide-and-conquer, and dynamic programming. Data structures include heaps and search, splay, and spanning trees. Analysis techniques include asymptotic worst-case, expected time, amortized analysis, and reductions between problems.
 
 
 <a name="license"></a>License
