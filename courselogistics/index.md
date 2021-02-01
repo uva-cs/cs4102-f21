@@ -3,7 +3,7 @@ CS4102 - Algorithms Course Logistics
 
 [Back to main page](../readme.html)
 
-[Lectures](#lectures) | [Quizzes](#quizzes) |  [Homeworks and Grading Policy](#homeworks) | [Final Exam](#final) | [Final Letter Grades](#lettergrades) | 
+[Lectures](#lectures) | [Textbook](#textbook) |[Quizzes](#quizzes) |  [Homeworks and Grading Policy](#homeworks) | [Final Exam](#final) | [Final Letter Grades](#lettergrades) | 
 
 
 <a name="lectures"></a>Lectures
@@ -15,6 +15,14 @@ Each lecture in this course will be **split into two halves**, a *asynchronous r
 - The **live in-person portion** of class will take place on Zoom, and will focus on extra examples, more complicated proofs, and other such things that require or benefit from an in-person explanation.
 
 Because of this split, the first 35 minutes of lecture will be reserved for students who wish to watch the recorded lecture during reserved class time. For example, if class is scheduled from 11-12:15, there **will not** be class from 11-11:35 so students may watch the recording (or students may watch it ahead of time, up to you). In-person class begins at 11:35 and will proceed until 12:15.
+
+<a name="textbook"></a>Textbook
+------------------------------------------
+
+You will really need to read and study material other than the slides. There are many choices where you can get more details about our topics, but a textbook is the easiest option.
+We’ll post readings from the following textbook, and we urge you to read them or get that info from another source.
+
+*Introduction to Algorithms* by Cormen, et. al., 3rd edition.  Referred to as "CLRS".  UVA Library has a digital version of CLRS available [online for free](https://search.lib.virginia.edu/catalog/u6757775)
 
 
 <a name="lectures"></a>Quizzes
