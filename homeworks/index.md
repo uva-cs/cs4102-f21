@@ -20,10 +20,10 @@ CS4102 - Algorithms
 
 | Module | Programming Assignment | Written Assignment |
 |--------------------|------------------------|------------------------|
-| Divide and Conquer / Sorting | <a href="./divideconq-basic/trading.pdf">Trading</a> | Written Problems |
+| Divide and Conquer / Sorting | <a href="./divideconq-basic/trading.pdf">Trading</a> | <a href="./divideconq-advanced/divConProofs.pdf">Written Problems</a> |
 | Graphs / Find-Union | <a href="./graphs-advanced/securityClearance.pdf">Security Clearance</a> | Graph Proofs |
 | Greedy and Dynamic Programming | <a href="./dynamic-advanced/palindromes.pdf">Palindromes</a> | Written Problems |
-| Network Flow and Reductions | <a href="./greedy-advanced/daycare.pdf">Nursery</a> | Written Problems |
+| Network Flow and Reductions | TBD | Written Problems |
 
 
 
@@ -31,3 +31,4 @@ CS4102 - Algorithms
 ---------------------------------------
 
 - [Latex Tutorial](./latexTutorial.pdf) 
+
