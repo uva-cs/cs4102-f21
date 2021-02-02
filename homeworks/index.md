@@ -5,6 +5,11 @@ CS4102 - Algorithms
 
 ### NOTE: THIS PAGE IS UNDER CONSTRUCTION. HOMEWORKS ARE FLUID DURING THE FIRST WEEK OF CLASSES. AFTER THE FIRST WEEK OF CLASSES, ANYTHING WITH A LINK WILL BE FINAL AND OTHER HOMEWORKS WILL BE RELEASED ON A ROLLING BASIS AFTERWARDS.
 
+<a name="introduction"></a>How to Submit Assignments
+--------------------------------------- 
+
+We will be using [Gradescope](https://gradescope.com) for this course. Check out the [Gradescope Information Page](./gradescope.html) for information on how to submit programming assignments to Gradescope.
+
 <a name="introduction"></a>Basic Homeworks
 --------------------------------------- 
 
