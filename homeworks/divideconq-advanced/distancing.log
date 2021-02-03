@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  7 FEB 2020 14:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  3 FEB 2021 09:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**seating.tex
-(./seating.tex
+**distancing.tex
+(./distancing.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -183,8 +183,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip43
 )
-(./seating.aux)
-\openout1 = `seating.aux'.
+(./distancing.aux)
+\openout1 = `distancing.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -246,16 +246,16 @@ LaTeX Info: Redefining \ref on input line 15.
 LaTeX Info: Redefining \pageref on input line 15.
 LaTeX Info: Redefining \nameref on input line 15.
 
-(./seating.out) (./seating.out)
+(./distancing.out) (./distancing.out)
 \@outlinefile=\write3
-\openout3 = `seating.out'.
+\openout3 = `distancing.out'.
 
- <restaurant.jpg, id=4, 602.25pt x 360.34625pt>
-File: restaurant.jpg Graphic file (type jpg)
+ <park.jpg, id=4, 1927.2pt x 1084.05pt>
+File: park.jpg Graphic file (type jpg)
 
-<use restaurant.jpg>
-Package pdftex.def Info: restaurant.jpg used on input line 23.
-(pdftex.def)             Requested size: 216.81pt x 129.72455pt.
+<use park.jpg>
+Package pdftex.def Info: park.jpg used on input line 23.
+(pdftex.def)             Requested size: 216.81pt x 121.9421pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -290,24 +290,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--54
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
 [1
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./resta
-urant.jpg>]
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./park.
+jpg>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
- (./seating.aux)
+ (./distancing.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
-Package rerunfilecheck Info: File `seating.out' has not changed.
+Package rerunfilecheck Info: File `distancing.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
  5171 strings out of 492995
- 77178 string characters out of 6132704
- 162545 words of memory out of 5000000
+ 77187 string characters out of 6132704
+ 163545 words of memory out of 5000000
  8697 multiletter control sequences out of 15000+600000
  7757 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,25p,521b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,8n,25p,645b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
@@ -315,7 +315,7 @@ usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
 ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
 cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on seating.pdf (1 page, 149144 bytes).
+Output written on distancing.pdf (1 page, 355677 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
