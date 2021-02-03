@@ -6,12 +6,12 @@ CS4102 - Algorithms
 <a name="introduction"></a>Schedule and Slides
 --------------------------------------- 
 
-| Module | Date | Topic | Slides | Quiz Due | Homework Due
+| Module | Date | Topic / Readings | Slides | Quiz Due | Homework Due
 |--------------------|------|-----------------------------|-----------------------| -----------------------| -----------------------|
 | Course Intro | Mon. Feb. 1 | Course Introduction | [pptx](./courseintroduction.pptx) | | |
-| Divide and Conquer / Sorting | Wed. Feb. 3 | Standard Algorithms | [pptx](./sorting-intro.pptx) | | |
+| Divide and Conquer / Sorting | Wed. Feb. 3 | Standard Algorithms <br/> (Read CLRS Ch. 2) | [pptx](./sorting-intro.pptx) | | |
 | | Fri. Feb. 5  | | | | |
-| | Mon. Feb. 8 | Solving Recurrences | | | |
+| | Mon. Feb. 8 | Solving Recurrences  <br/> (Review CLRS Ch. 3 & start Ch. 4) | | | |
 | | Wed. Feb. 10 | Basic Quicksort | | | |
 | | Fri. Feb. 12  | | | | |
 | | Mon. Feb. 15 | More Quicksort | | | |
@@ -52,3 +52,4 @@ CS4102 - Algorithms
 | | Fri. May. 7  | | | Quiz 3, 4 | |
 | Final Exams | Mon. May. 10 | | | | Module 4 HW Hard Deadline |
 | | Tue. May 11 | | | Final: Quizzes 1-5 | |
+
