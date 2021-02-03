@@ -9,7 +9,7 @@ CS4102 - Algorithms
 | Module | Date | Topic | Slides | Quiz Due | Homework Due
 |--------------------|------|-----------------------------|-----------------------| -----------------------| -----------------------|
 | Course Intro | Mon. Feb. 1 | Course Introduction | [pptx](./courseintroduction.pptx) | | |
-| Divide and Conquer / Sorting | Wed. Feb. 3 | Standard Algorithms | | | |
+| Divide and Conquer / Sorting | Wed. Feb. 3 | Standard Algorithms | [pptx](./sorting-intro.pptx) | | |
 | | Fri. Feb. 5  | | | | |
 | | Mon. Feb. 8 | Solving Recurrences | | | |
 | | Wed. Feb. 10 | Basic Quicksort | | | |
