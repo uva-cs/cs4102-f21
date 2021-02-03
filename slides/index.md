@@ -7,7 +7,7 @@ CS4102 - Algorithms
 --------------------------------------- 
 
 | Module | Date | Topic / Readings | Slides | Quiz Due | Homework Due
-|--------------------|------|-----------------------------|-----------------------| -----------------------| -----------------------|
+|-----------------|------|-----------------------------|-------| -------| ------------------|
 | Course Intro | Mon. Feb. 1 | Course Introduction | [pptx](./courseintroduction.pptx) | | |
 | Divide and Conquer / Sorting | Wed. Feb. 3 | Insertion Sort, Mergesort <br/> (Read CLRS Ch. 2) | [pptx](./sorting-intro.pptx) | | |
 | | Fri. Feb. 5  | | | | |
