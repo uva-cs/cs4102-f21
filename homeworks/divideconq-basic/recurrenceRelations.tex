@@ -89,23 +89,37 @@
 
 \section*{\homework}
 
+
+\question[3]{
+You are a hacker, trying to gain information on a secret array of size $n$. This array contains $n-1$ ones and exactly $1$ two; you want to determine the index of the two in the array.\\
+\\
+Unfortunately, you don't have access to the array directly; instead, you have access to a function $f(l1, l2)$ that compares the sum of the elements of the secret array whose indices are in $l1$ to those in $l2$. This function returns $-1$ if the $l1$ sum is smaller, $0$ if they are equal, and $1$ if the sum corresponding to $l2$ is smaller.\\
+\\
+For example, if the array is $a=[1,1,1,2,1,1]$ and you call $f([1,3,5],[2,4,6])$ then the return value is $1$ because $a[1]+a[3]+a[5]=3<4=a[2]+a[4]+a[6]$. Design an algorithm to find the index of the $2$ in the array using the least number of calls to $f()$. Suppose you discover that $f()$ runs in $\Theta(max(|l1|,|l2|))$, what is the overall runtime of your algorithm? 
+}
+
+\vspace{12pt}
+
+\question[3]{
+In class, we looked at the \emph{Quicksort algorithm}. Consider the \textbf{worst-case scenario} for quick-sort in which the worst possible pivot is chosen (the smallest or largest value in the array). Answer the following questions:
+
+\begin{itemize}
+\item What is the probability of choosing one of the two worst pivots out of $n$ items in the list?
+\item Extend your formula. What is the probability of choosing the one of the worst possible pivots \emph{for EVERY recursive call} until reaching the base case. In other words, what is the probability quicksort fully sorts the list while choosing the worst pivot choice every time it attempts to do so?
+\item What is the limit of your formula above as the size of the list grows. Is the chance of getting Quicksort's worst-case improving, staying constant, or converging on some other value.
+\item Present one sentence on what this means. What are the chances that we actually get Quicksort's worst-case behavior?
+\end{itemize}
+}
+
+\vspace{12pt}
+
+
+
 %----------------------------------------------------------------------
-\noindent Directly solve, by unrolling the recurrence, the following relations to find their exact solutions.
+\noindent Directly solve, by unrolling the recurrence, the following relation to find its exact solution.
 
 \question[2]{
 $T(n) = T(n-1) + n$
-}
-
-\answer[0 in]{
-$\Theta(n^2)$
-}
-
-\question[2]{
-$T(n) = T(\frac{n}{2})+1$
-}
-
-\answer[0 in]{
-$\Theta(log(n))$
 }
 
 \vspace{12pt}
@@ -115,23 +129,7 @@ $\Theta(log(n))$
 \noindent Use induction to show bounds on the following recurrence relations.
 
 \question[2]{
-Show that $T(n)=2T(\frac{n}{2})+n \in \Omega(nlog(n))$. \emph{Note: We are using big-omega here, so your inequality will use $T(n) \geq c*n*log(n)$}.
-}
-
-\answer[0 in]{
-...
-}
-
-\question[2]{
 Show that $T(n)=2T(\sqrt{n})+log(n) \in O(log(n)*log(log(n)))$. \emph{Hint: Try creating a new variable m and substituting the equation for m to make it look like a common recurrence we've seen before. Then solve the easier recurrence and substitute n back in for m at the end.}
-}
-
-\answer[0 in]{
-...
-}
-
-\question[2]{
-Show that $T(n)=4T(\frac{n}{2})+n \in \Theta(n^2)$. You'll need to subtract off a lower-order term to make the induction work here. \emph{Note: we are using big-theta here, so you'll need to prove the upper AND lower bound.}
 }
 
 \answer[0 in]{
