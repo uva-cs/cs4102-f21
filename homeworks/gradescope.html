@@ -52,6 +52,16 @@ cat sampleInput.in | make run | tail -n +2 &gt; yourOutputFile.out
 # test if your program worked correctly. Compares your output file to expected one. -w means ignore differences in whitespace.
 # If your program worked, you will see no output at all from this command.
 diff -w yourOutputFile.out sampleOutput.out</code></pre>
+<h2 id="meaning-of-gradescope-scores"><a name="grademeaning"></a>Meaning of Gradescope Scores</h2>
+<p>Graded assignments in Gradescope will have a numeric score which will map onto one of the three levels of homework grade possible in our course: <em>Incomplete, Satisfied,</em> or <em>Mastered</em>.</p>
+<p><strong>Written homeworks:</strong> a grade of 2 means <em>Mastered</em>. A grade of 1 means <em>Satisifed</em>. A grade of 0 means <em>Incomplete</em>.</p>
+<p><strong>Programming homeworks:</strong> Gradescope will show two numeric scores: one for the write-up, and another for the program’s results executing our test cases.</p>
+<ul>
+<li>The write-up will be scored 0 for “unsatisfactory” or 1 for “satisfactory”.</li>
+<li>Your program’s execution score will be 0, 1 or 2, with the same meaning given above for written homeworks. However…</li>
+<li>You must have a “satisfactory” (score of 1) on the write-up to get the <em>Satisfied,</em> or <em>Mastered</em> score on this homework. If the write-up is “unsatisfactory” you will get an <em>Incomplete</em> for this homework no matter what program execution score is reported by Gradescope.</li>
+</ul>
+<p><strong>Note:</strong> To get a <em>Mastered</em> your code may not have to pass all of our test-cases. In other words, “almost perfect” may be OK for <em>Mastered</em>. The cut-off for this will be determined by the instructors for each assignment.</p>
 <h2 id="example-makefiles"><a name="introduction"></a>Example Makefiles</h2>
 <p>Below are example makefiles for each language. You should look at these and make slight tweaks if necessary. The comments in the Makefile will give you some information about this.</p>
 <ul>

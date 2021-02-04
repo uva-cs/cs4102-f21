@@ -43,6 +43,23 @@ cat sampleInput.in | make run | tail -n +2 > yourOutputFile.out
 diff -w yourOutputFile.out sampleOutput.out
 ```
 
+<a name="grademeaning"></a>Meaning of Gradescope Scores
+---------------------------------------
+
+Graded assignments in Gradescope will have a numeric score which will map onto one of the  three levels of homework grade possible in our course: *Incomplete, Satisfied,* or *Mastered*.
+
+**Written homeworks:** a grade of 2 means *Mastered*. A grade of 1 means *Satisifed*. A grade of 0 means *Incomplete*.
+
+**Programming homeworks:** Gradescope will show two numeric scores: one for the write-up, and another for the program's results executing our test cases.
+
+- The write-up will be scored 0 for "unsatisfactory" or 1 for "satisfactory".
+- Your program's execution score will be 0, 1 or 2, with the same meaning given above for written homeworks.  However...
+- You must have a "satisfactory" (score of 1) on the write-up to get the *Satisfied,* or *Mastered* score on this homework.  If the write-up is "unsatisfactory" you will get an *Incomplete* for this homework no matter what program execution score is reported by Gradescope.
+
+**Note:**  To get a *Mastered* your code may not have to pass all of our test-cases. In other words, "almost perfect" may be OK for *Mastered*.  The cut-off for this will be determined by the instructors for each assignment.
+
+
+
 <a name="introduction"></a>Example Makefiles
 ---------------------------------------
 
