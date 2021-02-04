@@ -17,12 +17,13 @@ Your assignments can be completed in one of three programming languages: Java, C
 
 - **Individual Code Files:** You must submit all of your code as individual code files with no folder structure. You can submit multiple files, but they cannot be in folders (no Java packages for example).
 - **Makefile:** Gradescope will expect you to submit a Makefile. Don't be frightened by this. They are very simple and there are examples provided below. The makefile MUST be named "Makefile" exactly (capital M). 
+- **Pdf Writeup:** A short (one or two paragraph) description of your approach to solving the problem, and the runtime of your algorithm.
 
 Once your code is uploaded, the autograder will do the following things:
 
 - **Invoke 'make'**: The unix command 'make' will be called. This will use your provided Makefile to figure out how to compile your code. You can adjust your makefile to the particulars of your project if necessary.
 - **Invoke 'make run'**: The unix command 'make run' will be invoked to execute your code on several test cases. Your Makefile will define what command is executed to run your code. Gradescope will use the unix diff command to compare your output to the correct output.
-- **Response given**: Once the test cases have been run, you will get one of two responses: Correct Answer or Tests Failed. Note that the latter could mean that your code did not compile, you had a runtime error, etc. If I have time, I'll update the autograder to provide more precise feedback.
+- **Response given**: Once the test cases have been run, you will get one of several responses: If your code doesn't compile, you'll get a message to that effect. If your code does compile, you'll see individual test cases, each of which will say that your code either passed, had a runtime error (we won't be able to tell you what it is though), or time limeout exceeded (your code was too slow). 
 
 **SMALL NOTE:** You can test your make file by using a unix terminal and running the following commands:
 
