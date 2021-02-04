@@ -1,0 +1,12 @@
+.DS_Store
+*.bbl
+*.blg
+*.out
+*.aux
+*.xwm
+*.class
+*.pyc
+*.xoj
+*~
+~$*.ppt*
+
