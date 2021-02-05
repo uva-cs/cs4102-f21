@@ -21,6 +21,10 @@ repository first**
 - [Gradescope Info](./homeworks/gradescope.html): Information on submitting programming assignments to Gradescope.
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the slides used in the course.
 
+<a name="contents"></a>Office Hours Schedule
+------------------------------------------
+
+Office hours are held on our **Discord Server** every Sunday-Thursday from 6-10pm. To attend office hours, simply join the office hours queue voice channel and you will be added to the office hours queue. When you are taken off the queue you will be automatically moved to a staging room to wait (it is called oh-up-next). Soon after, a TA will manually pull you off that staging room into their office hours to help you.
 
 <a name="contributing"></a>Contributing to this Repository
 ----------------------------------------------------------
