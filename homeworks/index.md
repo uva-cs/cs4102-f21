@@ -3,7 +3,9 @@ CS4102 - Algorithms
 
 [Back to Main Page](../readme.html)
 
-### NOTE: THIS PAGE IS UNDER CONSTRUCTION. HOMEWORKS ARE FLUID DURING THE FIRST WEEK OF CLASSES. AFTER THE FIRST WEEK OF CLASSES, ANYTHING WITH A LINK WILL BE FINAL AND OTHER HOMEWORKS WILL BE RELEASED ON A ROLLING BASIS AFTERWARDS.
+### NOTE: MODULE 1 Homeworks are ready to go! Gradescope is ready to accept submission for module 1 assignments as well.
+
+
 
 <a name="introduction"></a>How to Submit Assignments
 --------------------------------------- 
