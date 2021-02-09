@@ -11,10 +11,10 @@ CS4102 - Algorithms
 | Course Intro | Mon. Feb. 1 | Course Introduction | [pptx](./courseintroduction.pptx) | | |
 | Divide and Conquer / Sorting | Wed. Feb. 3 | Insertion Sort, Mergesort <br/> (Read CLRS Ch. 2) | [pptx](./sorting-intro.pptx) | | |
 | | Fri. Feb. 5  | | | | |
-| | Mon. Feb. 8 | Solving Recurrences  <br/> (Review CLRS Ch. 3 & start Ch. 4) | [pptx](./recurrences_recorded.pptx) | | |
-| | Wed. Feb. 10 | Basic Quicksort | | | |
+| | Mon. Feb. 8 | Solving Recurrences  <br/> (Review CLRS Ch. 3 & start Ch. 4) | [recording pptx](./recurrences_recorded.pptx), [live pptx](./recurrences_live.pptx) | | |
+| | Wed. Feb. 10 | MaxSum | [pptx](./maxsum_recorded.pptx) | | |
 | | Fri. Feb. 12  | | | | |
-| | Mon. Feb. 15 | More Quicksort | | | |
+| | Mon. Feb. 15 | Quicksort | | | |
 | | Wed. Feb. 17 | BREAK DAY | | | |
 | | Fri. Feb. 19  | | | | |
 | | Mon. Feb. 22 | Order Statistics | | | |
