@@ -39,5 +39,7 @@ That page also explains how the score reported by Gradescope translates to the t
 <a name="other"></a>Other Useful Stuff
 ---------------------------------------
 
-- [Latex Tutorial](./latexTutorial.pdf) 
+- [Sample Programming Assignment](./sample/SampleProgAssignment.zip): A zip containing a sample programming assignment, a solution in three languages, and an example write-up. You can even submit this to Gradescope!
+
+- [Latex Tutorial](./latexTutorial.pdf): A short "assignment" we used to require that asks you to practice with latex. Includes some links to some tutorials on using Latex
 
