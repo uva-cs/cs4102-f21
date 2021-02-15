@@ -18,7 +18,7 @@
 
 \def\course{CS 4102: Algorithms}
 \def\homework{Module 2 - Graphs: Basic Written HW}
-\def\semester{Spring 2020}
+\def\semester{Spring 2021}
 
 \newboolean{solution}
 \setboolean{solution}{false}
@@ -95,7 +95,7 @@
 %----------------------------------------------------------------------
 
 \question[3]{
-\textbf{Warm Up:} Let $G$ be an undirected graph with $n$ nodes (let's assume $n$ is even). Prove or provide a counterexample for the following claim: If every node of $G$ has a degree of at least $\frac{n}{2}$, then $G$ must be connected.
+Let $G$ be an undirected graph with $n$ nodes (let's assume $n$ is even). Prove or provide a counterexample for the following claim: If every node of $G$ has a degree of at least $\frac{n}{2}$, then $G$ must be connected.
 }
 
 
@@ -116,13 +116,20 @@ For this question, consider a single edge in a graph $G$ after DFS finishes exec
 \begin{enumerate}
 \item A tree edge or forward edge if and only if $u.d < v.d < v.f < u.f$
 \item A back edge if and only if $v.d \leq u.d < u.f \leq v.f$
-\item A cross edge if and only if $v.d < v.f < e.d < e.f$
+\item A cross edge if and only if $v.d < v.f < u.d < u.f$
 \end{enumerate}
+
+You can describe your answers intuitively, but your answers must be clearly articulated.
 }
 
 
 
 %----------------------------------------------------------------------
+
+\question[1]{
+\emph{Kruskal's algorithm} begins by adding the smallest edge in the graph to the solution (and never looking back). Let $e=(u,v)$ be a minimum-weight edge in a connected graph $G$. Show that $e=(u,v)$ belongs to some minimum spanning tree of G. \emph{HINT: Use a proof by contradiction. Note that $e$ will eventually connect two smaller spanning trees together. If $e$ is NOT in the solution, than something else IS. Show that this leads to some kind of contradiction.}
+}
+
 
 
 
