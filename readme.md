@@ -26,6 +26,18 @@ repository first**
 
 Office hours are held on our **Discord Server** every Sunday-Thursday from 6-10pm. To attend office hours, simply join the office hours queue voice channel and you will be added to the office hours queue. When you are taken off the queue you will be automatically moved to a staging room to wait (it is called oh-up-next). Soon after, a TA will manually pull you off that staging room into their office hours to help you.
 
+### Office Hours Schedule:
+
+| Day | Time | Location | Description | 
+|-----|------|--------|-------------------------------|
+| Sunday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
+| Monday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
+| **Monday** | **11am - 3pm** | **Discord** | **In-Person Regrades, Resubmission, and Grading w/ Ahsan** |
+| Tuesday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
+| Wednesday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
+| Thursday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
+
+
 <a name="contributing"></a>Contributing to this Repository
 ----------------------------------------------------------
 
