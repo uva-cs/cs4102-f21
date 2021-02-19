@@ -17,7 +17,7 @@ CS4102 - Algorithms
 | | Mon. Feb. 15 | Quicksort and Closest Pair of Points <br/> (CLRS Ch. 7 but not 7.4.2, and CLRS 33.4) | [pptx](./closestpair_quicksort.pptx), [pdf](./closestpair_quicksort.pdf) <br/> ([Horton's live pptx](./closestpair_quicksort_live.pptx), [pdf](./closestpair_quicksort_live.pdf)) | | | |
 | | Wed. Feb. 17 | BREAK DAY | | | | Prog. Distancing (Recommended) |
 | | Fri. Feb. 19  | | | | | |
-| | Mon. Feb. 22 | Order Statistics | | | | |
+| | Mon. Feb. 22 | Order Statistics and Median of Medians <br/> (CLRS Ch. 9) <br/> [Feedback Form](https://forms.gle/4BQiZqXovdbBnwcJ7)| [pptx](./quickselect_MM.pptx), [pdf](./quickselect_MM.pdf) | | | |
 | | Wed. Feb. 24 | Heaps and Heap Sort | | | Module 1 HW Soft Deadline | Written Recurrence Relations (Recommended) |
 | | Fri. Feb. 26  | | | Quiz 1 | | |
 | Graphs | Mon. Mar. 1 | Review of Graphs, BFS | | | | |
