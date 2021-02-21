@@ -18,7 +18,7 @@ CS4102 - Algorithms
 | | Wed. Feb. 17 | BREAK DAY | | | | Prog. Distancing (Recommended) |
 | | Fri. Feb. 19  | | | | | |
 | | Mon. Feb. 22 | Order Statistics and Median of Medians <br/> (CLRS Ch. 9) <br/> [Feedback Form](https://forms.gle/4BQiZqXovdbBnwcJ7)| [pptx](./quickselect_MM.pptx), [pdf](./quickselect_MM.pdf) | | | |
-| | Wed. Feb. 24 | Heaps and Heap Sort <br/> (CLRS Ch. 6) | | | Module 1 HW Soft Deadline | Written Recurrence Relations (Recommended) |
+| | Wed. Feb. 24 | Heap Sort, Strassen's algorithm <br/> (CLRS Ch. 6 & 4.2) | | | Module 1 HW Soft Deadline | Written Recurrence Relations (Recommended) |
 | | Fri. Feb. 26  | | | Quiz 1 | | |
 | Graphs | Mon. Mar. 1 | Review of Graphs, BFS | | | | |
 | | Wed. Mar. 3 | DFS, Connected Components, Topological Sort | | | | 1 Module one advanced HW (Recommended) |
