@@ -31,6 +31,7 @@ Office hours are held on our **Discord Server** every Sunday-Thursday from 6-10p
 | Day | Time | Location | Description | 
 |-----|------|--------|-------------------------------|
 | Sunday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
+| Monday | 9:15am - 10:45am | Discord | Floryan's Office Hours |
 | Monday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
 | **Monday** | **11am - 3pm** | **Discord** | **In-Person Regrades, Resubmission, and Grading w/ Ahsan** |
 | Tuesday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
