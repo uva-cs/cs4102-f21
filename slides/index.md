@@ -12,7 +12,7 @@ CS4102 - Algorithms
 | Divide and Conquer / Sorting | Wed. Feb. 3 | Insertion Sort, Mergesort <br/> (Read CLRS Ch. 2) | [pptx](./sorting-intro.pptx) | | | |
 | | Fri. Feb. 5  | | | | |
 | | Mon. Feb. 8 | Solving Recurrences  <br/> (Review CLRS Ch. 3 & start Ch. 4) | [recording pptx](./recurrences_recorded.pptx), [live pptx](./recurrences_live.pptx) | | | |
-| | Wed. Feb. 10 | MaxSum | [pptx](./maxsum_recorded.pptx) | | | |
+| | Wed. Feb. 10 | MaxSum <br/> (CLRS 4.1)| [pptx](./maxsum_recorded.pptx) | | | |
 | | Fri. Feb. 12  | | | | | |
 | | Mon. Feb. 15 | Quicksort and Closest Pair of Points <br/> (CLRS Ch. 7 but not 7.4.2, and CLRS 33.4) | [pptx](./closestpair_quicksort.pptx), [pdf](./closestpair_quicksort.pdf) <br/> ([Horton's live pptx](./closestpair_quicksort_live.pptx), [pdf](./closestpair_quicksort_live.pdf)) | | | |
 | | Wed. Feb. 17 | BREAK DAY | | | | Prog. Distancing (Recommended) |
