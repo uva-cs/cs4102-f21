@@ -20,9 +20,9 @@ That page also explains how the score reported by Gradescope translates to the t
 | Module | Programming Assignment | Written Assignment |
 |--------------------|------------------------|------------------------|
 | Divide and Conquer / Sorting | <a href="./divideconq-advanced/distancing.pdf">Social Distancing</a> | <a href="./divideconq-basic/recurrenceRelations.pdf">Recurrence Relations</a> |
-| Graphs / Find-Union | <a href="./find-union/prims.pdf">Wiring a House</a> | Written Problems |
-| Greedy and Dynamic Programming | <a href="./dynamic-basic/drainage.pdf">Drainage</a> | Greedy Proofs |
-| Network Flow and Reductions | <a href="./graphs-advanced/scheduling.pdf">Network Flow</a> | Written |
+| Graphs / Find-Union | <a href="./module2/wiring.pdf">Wiring a House</a> | <a href="./module2/graphs-written-basic.pdf">Basic Written Problems</a> |
+| Greedy and Dynamic Programming | TBD | TBD |
+| Network Flow and Reductions | TBD | TBD |
 
 <a name="introduction"></a>Advanced Homeworks
 --------------------------------------- 
@@ -30,8 +30,8 @@ That page also explains how the score reported by Gradescope translates to the t
 | Module | Programming Assignment | Written Assignment |
 |--------------------|------------------------|------------------------|
 | Divide and Conquer / Sorting | <a href="./divideconq-advanced/trading.pdf">Trading</a> | <a href="./divideconq-advanced/divConProofs.pdf">Written Problems</a> |
-| Graphs / Find-Union | <a href="./graphs-advanced/securityClearance.pdf">Security Clearance</a> | Graph Proofs |
-| Greedy and Dynamic Programming | <a href="./dynamic-advanced/palindromes.pdf">Palindromes</a> | Written Problems |
+| Graphs / Find-Union | <a href="./module2/securityClearance.pdf">Security Clearance</a> | <a href="./module2/graphProofs.pdf">Advanced Graph Problems</a> |
+| Greedy and Dynamic Programming | TBD | Written Problems |
 | Network Flow and Reductions | TBD | Written Problems |
 
 

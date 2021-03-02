@@ -21,7 +21,7 @@ CS4102 - Algorithms
 | | Wed. Feb. 24 | Heap Sort, Strassen's algorithm <br/> (CLRS Ch. 6 & 4.2) |[pptx](./heapsort_strassen.pptx), [pdf](./heapsort_strassen.pdf) | | Module 1 HW Soft Deadline | Written Recurrence Relations (Recommended) |
 | | Fri. Feb. 26  | | | | | |
 | Graphs | Mon. Mar. 1 | Review of Graphs, BFS <br/> (CLRS Ch. 22.1-22.2) | [rec](./graphs-BFS-recorded.pptx), [live](./graphs-BFS-live.pptx) | | | |
-| | Wed. Mar. 3 | DFS, Connected Components, Topological Sort | | | | 1 Module one advanced HW (Recommended) |
+| | Wed. Mar. 3 | Krukal's Algo, Find-Union <br/> (CLRS ch. 23.2 and 21.1-21.4) | [rec](./kruskal-find-union.pptx) | | | 1 Module one advanced HW (Recommended) |
 | | Fri. Mar. 5  | | | Quiz 1 | | |
 | | Mon. Mar. 8 | Shortest Path | | | | |
 | | Wed. Mar. 10 | BUFFER DAY | | | Module 1 HW Hard Deadline | Graphs Written (Recommended) |
