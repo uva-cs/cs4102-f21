@@ -122,10 +122,51 @@ For this question, consider a single edge in a graph $G$ after DFS finishes exec
 You can describe your answers intuitively, but your answers must be clearly articulated.
 }
 
+% ------------------------------------------
+
+\question[1]{
+ For a given undirected graph $G$, prove that the depth of a DFS tree cannot be smaller than the depth of the BFS tree.  (Clearly state your proof strategy or technique.)
+ 
+ {\bf Tom's comments:}  Pretty easy to argue.  (If BFS tree smaller, then at least one vertex $v$ must be at a lower level in the BFS tree, but we know BFS shows shortest paths.) Maybe better as a quiz question if we want a very simple proof on the first version of Quiz 2.
+
+}
+
+% ------------------------------------------
+
+\question[1]{
+Given an undirected graph $G$, the {\em eccentricity} of a node $v$ is the largest of the shortest possible distances from $v$ to any other node in the graph. The minimum eccentricity in the graph is called the  {\em graph radius} for $G$. All the nodes in $G$ that have eccentricity equal to the graph radius form a set called the {\em graph center} of G.
+
+Describe (using pseudo-code or a very clea rtext explanation) an efficient algorithm to find the graph center of a graph $G$ and describe its complexity.  (Note: you must make use of algorithms studied in this module, and not  re-invent the wheel.)
+
+{\bf Tom's comments:}  We could rename these graph terms if we wanted to hinder web searches for the algorithm.  Solution involves calling BFS on each node, and remember the longest path in BFS tree as the eccentricity for the start-node. The find the minimum of all node's eccentricity, then find all nodes that have this minimum.  $\Theta(V \times E)$
+}
 
 
+% ------------------------------------------
 
+\question[1]{
+A graph $G$'s {\em girth}  is the number of edges in the shortest cycle in $G$.   Describe an efficient algorithm to find the girth of a graph in $\Theta(V \times E)$.  (Note: you must make use of algorithms studied in this module, and not  re-invent the wheel.)
 
+ {\bf Tom's comments:}  They need to realize that when they hit a leaf in the BFS tree, they can check to see if it connects to the start node.  They also need to know they need to run BFS starting at each vertex. \\
+ We could change or not use ``girth'' if we wanted to hinder web searches for the algorithm.  This is from the Johnsonbaugh textbook, which is not so popular, but I see Chegg when searching for solutions.  What can you do\ldots  BTW, is type-setting the multiplication as $\Theta(V \times E)$ better than $\Theta(VE)$?
+}
+
+% ------------------------------------------
+
+\question[1]{
+In the CLRS code for {\em DFS-Visit} at line 8,  we have completed recursively visiting all then un-visited vertices adjacent to vertex $u$, so we change $u$'s color to black.  For this problem, consider what happens if instead we change the color of $u$ to {\em white} at this line.
+
+Explore what this causes to happen by tracing this altered algorithm on a small connected undirected graph.  After you have done that, submit answers to the following questions.
+
+\begin{enumerate}
+\renewcommand{\theenumi}{\Alph{enumi}}
+\item In no more than a few sentences, clearly describe what the ``DFS'' tree from an initial node $s$ found by this algorithm represents.  (Note:  we put DFS in quotes here because with this change this algorithm is no longer DFS!)
+\item Give a mathematical formula (not just an order class) for the number of leaves in this tree for a worst-case input graph.  Describe this worst-case input graph.  (Again, tracing this algorithm on small connected graphs may help you find the answer more quickly.)
+\end{enumerate}
+
+ {\bf Tom's comments:}  For (a) we're looking for an answer along these lines:  All possible simple paths in the graph from $s$.  For (b) the answer should be: for a complete graph, $(n-1)!$
+
+}
 
 
 

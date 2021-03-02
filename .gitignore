@@ -10,4 +10,5 @@
 *.xoj
 *~
 ~$*.ppt*
-
+*.synctex.gz
+*.log
