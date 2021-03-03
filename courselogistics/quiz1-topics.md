@@ -13,7 +13,7 @@ Document Version: 1.0, March 2, 5:00pm
 
 How the Quiz Will Be Given and Other Rules
 ----------------------------------------------
-See [this document](https://docs.google.com/document/d/1EForD2P6JuUZdGUC_p5FOQI_JyZx1nXaKAsHZCtw2TU/edit?usp=sharing) for info about how the quiz will be given, what the rules are, etc.
+*Important!* Read [this document](https://docs.google.com/document/d/1EForD2P6JuUZdGUC_p5FOQI_JyZx1nXaKAsHZCtw2TU/edit?usp=sharing) for info about how the quiz will be given, what the rules are, etc.
 
 
 Honor Policy for this Quiz
@@ -24,11 +24,14 @@ It’s hard to explain how disappointing cheating is for a professor who’s wor
 
 So we urge you to be the right kind of person. You can be, you ought to want to be, you probably are all or most of the time. But making the wrong decision when you’ve been asked to commit to and pledge that you’ve followed rules for academic integrity is a mistake that damages your personal integrity in return for a grade in a class. In the long term, a grade matters much less than the kind of person you believe you are and what your actions show you to be.
 
-We've put in a fair bit of thinking and effort to make things easier for you this term with our system of grading, the chance to re-take quizzes, etc. We need to balance the need to get an accurate assessment of your success in learning with making your lives reasaonably bearable. To take advantage of us as we're trying to do things the right way would be very disappointing.
+We've put in a fair bit of thinking and effort to make things easier for you this term with our system of grading, the chance to re-take quizzes, etc. We need to balance the need to get an accurate assessment of your success in learning with making your lives reasaonably bearable. To take advantage of us as we're trying to do things the right way is wrong and does you damage.
 
 All the best in these difficult times of pandemic and online learning!  We hope you do great on quizzes, projects, etc., but what we want more is for you to be good people. We believe you can be and want to be, so be that!
 
 
+Sample Questions, Practice Quiz
+-------------------------------------------------
+(Information coming soon!)
 
 
 Topics that will be covered on the quiz include:
