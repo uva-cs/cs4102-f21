@@ -31,7 +31,22 @@ All the best in these difficult times of pandemic and online learning!  We hope 
 
 Sample Questions, Practice Quiz
 -------------------------------------------------
-(Information coming soon!)
+(Under Construction!)
+
+Here are some sample questions:
+
+*Sample Q1:* In the merge algorithm shown in class for mergesort, one item from a sublist was moved after two items were compared.  For that comparison, we could choose use a < or a <=.  What affect does making a different choice in this have? Pick one of the following:
+
+1. Merge now works in such a way that mergesort does not produce correct results.
+2. Mergesort still works correctly, but its time-complexity order-class changes.
+3. Mergesort still works correctly, but this may affect its stability.
+4. None of the changes given in the previous choices could  occur.
+
+*Sample Q2:* We did a type of proof to show that comparison sorts that only swap adjacent items must do a minimum number of comparisons to produce a correct result.
+
+1. This type of proof is called a ______________ (fill in the blank).
+2. True or false? This particular proof relies on a decision tree argument.
+3. This proof shows that in the worst-case __________ comparisons must be done. (Give a precise formula, not an order class.)
 
 
 Topics that will be covered on the quiz include:
