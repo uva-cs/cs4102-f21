@@ -23,11 +23,11 @@ CS4102 - Algorithms
 | Graphs | Mon. Mar. 1 | Review of Graphs, BFS <br/> (CLRS Ch. 22.1-22.2) | [rec](./graphs-BFS-recorded.pptx), [live](./graphs-BFS-live.pptx) | | | |
 | | Wed. Mar. 3 | Krukal's Algo, Find-Union <br/> (CLRS ch. 23.2 and 21.1-21.4) | [rec](./kruskal-find-union.pptx) | | | 1 Module one advanced HW (Recommended) |
 | | Fri. Mar. 5  | | | Quiz 1 | | |
-| | Mon. Mar. 8 | Shortest Path | | | | |
-| | Wed. Mar. 10 | BUFFER DAY | | | Module 1 HW Hard Deadline | Graphs Written (Recommended) |
+| | Mon. Mar. 8 | Depth-First Search <br/> (CLRS 22.3, 22.4) | [pptx](./graphs-dfs.pptx), [pdf](./graphs-dfs.pdf) | | | |
+| | Wed. Mar. 10 | Search & Graph Problems <br/> (CLRS 22.5) | | | Module 1 HW Hard Deadline | Graphs Written (Recommended) |
 | | Fri. Mar. 12  | | | | | |
-| | Mon. Mar. 15 | Prims and Kruskals MST | | | | |
-| | Wed. Mar. 17 | Union-Find | | | Module 2 HW Soft Deadline | Prog. Wiring a House (Recommended) |
+| | Mon. Mar. 15 | Dijkstra's Shortest Path and Prim's MST <br/> (CLRS 23.2, 24.2, 24.3)| | | | |
+| | Wed. Mar. 17 | Proofs & Implementation for Prim's & Dijkstra's <br/> (the proof-y parts of previous readings) | | | Module 2 HW Soft Deadline | Prog. Wiring a House (Recommended) |
 | | Fri. Mar. 19  | | | | | |
 | Greedy and Dynamic Programming | Mon. Mar. 22 | Greedy Intro | | | | |
 | | Wed. Mar. 24 | More greedy examples and proofs | | | | 1 Module Two Advanced HW (Recommended) |
