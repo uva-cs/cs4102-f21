@@ -26,7 +26,7 @@ CS4102 - Algorithms
 | | Mon. Mar. 8 | Depth-First Search <br/> (CLRS 22.3) | [pptx](./graphs-dfs.pptx), [pdf](./graphs-dfs.pdf) | | | |
 | | Wed. Mar. 10 | Topological Sorting and Strongly Connected Components <br/> (CLRS 22.4 & 22.5) | [pptx](./graphs-topoSort-connComponents.pptx), [pdf](./graphs-topoSort-connComponents.pdf)| | Module 1 HW Hard Deadline | Graphs Written (Recommended) |
 | | Fri. Mar. 12  | | | | | |
-| | Mon. Mar. 15 | Dijkstra's Shortest Path and Prim's MST <br/> (CLRS 23.2, 24.2, 24.3)| | | | |
+| | Mon. Mar. 15 | Dijkstra's Shortest Path and Prim's MST <br/> (CLRS 23.2, 24.2, 24.3)| [rec](./dijkstraAndPrim.pptx) | | | |
 | | Wed. Mar. 17 | Proofs & Implementation for Prim's & Dijkstra's <br/> (the proof-y parts of previous readings) | | | Module 2 HW Soft Deadline | Prog. Wiring a House (Recommended) |
 | | Fri. Mar. 19  | | | | | |
 | Greedy and Dynamic Programming | Mon. Mar. 22 | Greedy Intro | | | | |
