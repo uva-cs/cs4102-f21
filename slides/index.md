@@ -20,13 +20,13 @@ CS4102 - Algorithms
 | | Mon. Feb. 22 | Order Statistics and Median of Medians <br/> (CLRS Ch. 9) <br/> [Feedback Form](https://forms.gle/4BQiZqXovdbBnwcJ7)| [pptx](./quickselect_MM.pptx), [pdf](./quickselect_MM.pdf) | | | |
 | | Wed. Feb. 24 | Heap Sort, Strassen's algorithm <br/> (CLRS Ch. 6 & 4.2) |[pptx](./heapsort_strassen.pptx), [pdf](./heapsort_strassen.pdf) | | Module 1 HW Soft Deadline | Written Recurrence Relations (Recommended) |
 | | Fri. Feb. 26  | | | | | |
-| Graphs | Mon. Mar. 1 | Review of Graphs, BFS <br/> (CLRS Ch. 22.1-22.2) | [rec](./graphs-BFS-recorded.pptx), [live](./graphs-BFS-live.pptx) | | | |
-| | Wed. Mar. 3 | Krukal's Algo, Find-Union <br/> (CLRS ch. 23.2 and 21.1-21.4) | [rec](./kruskal-find-union.pptx) | | | 1 Module one advanced HW (Recommended) |
+| Graphs | Mon. Mar. 1 | Review of Graphs, BFS <br/> (CLRS Ch. 22.1-22.2) | [ppt](./graphs-BFS-recorded.pptx), [pdf](./graphs-BFS-recorded.pdf), [live](./graphs-BFS-live.pptx) | | | |
+| | Wed. Mar. 3 | Krukal's Algo, Find-Union <br/> (CLRS ch. 23.2 and 21.1-21.4) | [ppt](./kruskal-find-union.pptx), [pdf](./kruskal-find-union.pdf) | | | 1 Module one advanced HW (Recommended) |
 | | Fri. Mar. 5  | | | Quiz 1 | | |
 | | Mon. Mar. 8 | Depth-First Search <br/> (CLRS 22.3) | [pptx](./graphs-dfs.pptx), [pdf](./graphs-dfs.pdf) | | | |
 | | Wed. Mar. 10 | Topological Sorting and Strongly Connected Components <br/> (CLRS 22.4 & 22.5) | [pptx](./graphs-topoSort-connComponents.pptx), [pdf](./graphs-topoSort-connComponents.pdf)| | Module 1 HW Hard Deadline | Graphs Written (Recommended) |
 | | Fri. Mar. 12  | | | | | |
-| | Mon. Mar. 15 | Dijkstra's Shortest Path and Prim's MST <br/> (CLRS 23.2, 24.2, 24.3)| [rec](./dijkstraAndPrim.pptx) | | | |
+| | Mon. Mar. 15 | Dijkstra's Shortest Path and Prim's MST <br/> (CLRS 23.2, 24.2, 24.3)| [ppt](./dijkstraAndPrim.pptx), [pdf](./dijkstraAndPrim.pdf) | | | |
 | | Wed. Mar. 17 | Proofs & Implementation for Prim's & Dijkstra's <br/> (the proof-y parts of previous readings) | | | Module 2 HW Soft Deadline | Prog. Wiring a House (Recommended) |
 | | Fri. Mar. 19  | | | | | |
 | Greedy and Dynamic Programming | Mon. Mar. 22 | Greedy Intro | | | | |
