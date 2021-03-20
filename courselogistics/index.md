@@ -66,28 +66,28 @@ There is no proper final exam in this course. The final exam time will be used t
 
 Once the semester has ended. Each student will have a set of basic homeworks, advanced homeworks, and quizzes that are each at one of the three grading levels (incomplete, satisfactory, or mastered). To calculate final grades, simply count how many of each type of assignment is satisfactory and how many of each type are mastered. Look up the **highest row in the table below for which you reach or exceed the requirements** and that is your final course letter grade.
 
-| Letter Grade | BH: S | BH: M | AH: S | AH: M | Q: S | Q: M |
-|:--------------:|:---:|:---:|:---:|:---:|:---:|:---:|
-| F | - | - | - | - | - | - | 
-| D- | 4 | 2 | - | - | 1 | 0 | 
-| D | 3 | 3 | - | - | 0 | 1 | 
-| D+ | 2 | 4 | - | - | 1 | 1 | 
-| C- | 4 | 4 | - | - | 2 | 1 | 
-| C | 3 | 5 | - | - | 1 | 2 | 
-| C+ | 2 | 6 | - | - | 0 | 3 | 
-| B- | 1 | 7 | - | - | 1 | 3 | 
-| B | 0 | 8 | - | - | 0 | 4 | 
-| B+ | - | - | 1 | 1 | 1 | 4 | 
-| A- | - | - | 2 | 2 | 0 | 5 | 
-| A | - | - | 0 | 4 | - | - | 
-| A+ | - | - | - | 7 | - | - | 
+| Letter Grade | HW: S | HW: M | Q: S | Q: M |
+|:--------------:|:---:|:---:|:---:|:---:|
+| F | - | - | - | - |
+| D-\* | 4 | 2 | 1 | 0 | 
+| D | 3 | 3 | 0 | 1 | 
+| D+ | 2 | 4 | 1 | 1 | 
+| C-\*\* | 4 | 4 | 2 | 1 | 
+| C | 3 | 5 | 1 | 2 | 
+| C+ | 2 | 6 | 0 | 3 | 
+| B- | 1 | 7 | 1 | 3 | 
+| B | 0 | 8 | 0 | 4 | 
+| B+ | 1 | 9 | 1 | 4 | 
+| A- | 2 | 10 | 0 | 5 | 
+| A | 0| 12 | - | - | 
+| A+ | - | 15 | - | - | 
 
 **Legend**
 
-- **BH: S** is number of basic homeworks at the satisfactory level, but not higher
-- **BH: M** is number of basic homeworks mastered
-- **AH: S** is number of advanced homeworks at the satisfactory level, but not higher
-- **AH: M** is number of advanced homeworks mastered
+- **\***: To earn a D- or above, at least one satisfactory or mastery **homework** grade must come from each of 3 different modules.
+- **\*\***: To earn any C- or above, at least one satisfactory or mastery **homework** grade must come from each of the 4 modules.
+- **HW: S** is number of homeworks (basic or advanced) at the satisfactory level, but not higher
+- **HW: M** is number of homeworks (basic or advanced) mastered
 - **Q: S** is number of quizzes at satisfactory level, but not mastered
 - **Q: M** is number of quizzes that have been mastered
 - A **blank row** translates to *No change from the row above*. This makes the table easier to read.
