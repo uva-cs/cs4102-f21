@@ -30,7 +30,7 @@ CS4102 - Algorithms
 | | Wed. Mar. 17 | Proofs & Implementation for Prim's & Dijkstra's <br/> (the proof-y parts of previous readings) | | | Module 2 HW Soft Deadline | Prog. Wiring a House (Recommended) |
 | | Fri. Mar. 19  | | | | | |
 | Greedy and Dynamic Programming | Mon. Mar. 22 | Intro. to Greedy and DP <br/> (CLRS p. 414, 16.2, 15.1, 15.3) | [ppt](./DP_greedy_intro_part1.pptx), [pdf](./DP_greedy_intro_part1.pdf) | | | |
-| | Wed. Mar. 24 | DP and 0/1 knapsack, activity selection <br/> (CLRS 16.1) | | | | 1 Module Two Advanced HW (Recommended) |
+| | Wed. Mar. 24 | DP and 0/1 knapsack, activity selection <br/> (CLRS 16.1) |[ppt](./DP_greedy_intro_part2.pptx), [pdf](./DP_greedy_intro_part2.pdf) | | | 1 Module Two Advanced HW (Recommended) |
 | | Fri. Mar. 26  | | | Quiz 1, 2 | | |
 | | Mon. Mar. 29 | BREAK DAY | | | | |
 | | Wed. Mar. 31 | EXTRA BREAK DAY | | | Module 2 HW Hard Deadline | |
