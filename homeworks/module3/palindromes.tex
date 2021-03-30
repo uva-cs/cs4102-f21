@@ -37,6 +37,17 @@ After thinking careful about this clue, you discover the solution! You've deciph
 
 With this in mind, you realize that to get the treasure, you must turn the wheels using a minimum number of actions and turn the current number sequence into a palindrome. Can you figure out how to do it?
 
+\subsection*{HINT}
+
+\textbf{Warning: This is a VERY difficult problem}. Be aware that this one is going to require some planning, and thinking through edge cases, as well as some clever memoization. Consider the following hints:
+
+\begin{enumerate}
+	\item Consider working outside-in. If you can get the two outside numbers to match, you can then recurse on the inside dial.
+	\item Think about how you are going to model the overflow from one dial to another. One option is to use parameters to a recursive function to force it. One parameter (\emph{overflowIn}) is true iff there is overflow coming into the recursive call (so you are forced to turn your rightmost dial). A second (\emph{overflowOut}) is true iff the recursive call is REQUIRED to wrap the left most dial to produce overflow to the outer solution.
+	\item Once you have the items above, think about the combinations of \emph{overflowIn} and \emph{overflowOut} and try each one. Take the option that leads to the best overall answer.
+	\item Good luck!! 
+\end{enumerate}
+
 \subsection*{Input}
 
 The input will consist of a single line containing an integer of 1 to 40 digits. The number of digits in the input is the number of wheels on the safe. Numbers might contain leading zeros.
