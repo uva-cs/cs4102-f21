@@ -34,15 +34,15 @@ Office hours are held on our **Discord Server** every Sunday-Thursday from 6-10p
 |-----|------|--------|-------------------------------|
 | Sunday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
 | Monday | 9:15am - 10:45am | Discord | Floryan's Office Hours |
-| Monday | 1:30 - 2:30pm | Zoom (horton.uva) | Horton's Office Hours |
+| Monday | 1:30 - 2:30pm | [Zoom](https://virginia.zoom.us/my/horton.uva) | Horton's Office Hours |
 | Monday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
 | **Monday** | **11am - 3pm** | **Discord** | **In-Person Regrades, Resubmission, and Grading w/ Ahsan** |
-| Tuesday | noon - 12:45pm | Zoom (horton.uva) | Horton's Office Hours |
+| Tuesday | noon - 12:45pm | [Zoom](https://virginia.zoom.us/my/horton.uva)  | Horton's Office Hours |
 | Tuesday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
-| Wednesday | 1:30 - 2:30pm | Zoom (horton.uva) | Horton's Office Hours |
+| Wednesday | 1:30 - 2:30pm | [Zoom](https://virginia.zoom.us/my/horton.uva)  | Horton's Office Hours |
 | Wednesday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
 | Thursday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
-| Friday | 11:00am - noon | Zoom (horton.uva) | Horton's Office Hours |
+| Friday | 11:00am - noon | [Zoom](https://virginia.zoom.us/my/horton.uva)  | Horton's Office Hours |
 
 
 <a name="contributing"></a>Contributing to this Repository
