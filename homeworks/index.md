@@ -21,7 +21,7 @@ That page also explains how the score reported by Gradescope translates to the t
 |--------------------|------------------------|------------------------|
 | Divide and Conquer / Sorting | <a href="./divideconq-advanced/distancing.pdf">Social Distancing</a> | <a href="./divideconq-basic/recurrenceRelations.pdf">Recurrence Relations</a> |
 | Graphs / Find-Union | <a href="./module2/wiring.pdf">Wiring a House</a> | <a href="./module2/graphs-written-basic.pdf">Basic Written Problems</a> |
-| Greedy and Dynamic Programming | TBD | TBD |
+| Greedy and Dynamic Programming | <a href="./module3/drainage.pdf">Drainage</a> | <a href="./module3/basicWritten.pdf">Basic Written Problems</a> |
 | Network Flow and Reductions | TBD | TBD |
 
 <a name="introduction"></a>Advanced Homeworks
@@ -31,7 +31,7 @@ That page also explains how the score reported by Gradescope translates to the t
 |--------------------|------------------------|------------------------|
 | Divide and Conquer / Sorting | <a href="./divideconq-advanced/trading.pdf">Trading</a> | <a href="./divideconq-advanced/divConProofs.pdf">Written Problems</a> |
 | Graphs / Find-Union | <a href="./module2/securityClearance.pdf">Security Clearance</a> | <a href="./module2/graphProofs.pdf">Advanced Graph Problems</a> |
-| Greedy and Dynamic Programming | TBD | Written Problems |
+| Greedy and Dynamic Programming | <a href="./module3/palindromes.pdf">Palindromes</a> | <a href="./module3/advancedWritten.pdf">Advanced Written Problems</a> |
 | Network Flow and Reductions | TBD | Written Problems |
 
 

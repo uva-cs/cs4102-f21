@@ -17,9 +17,9 @@
 \usepackage{amssymb}
 \usepackage{graphicx}
 
-\def\course{CS 2501: Data Structures and Algorithms II}
-\def\homework{Dynamic Programming - Advanced: Written Problems}
-\def\semester{Spring 2020}
+\def\course{CS 4102: Algorithms}
+\def\homework{Module 3: Advanced Written Problems}
+\def\semester{Spring 2021}
 
 \newboolean{solution}
 \setboolean{solution}{false}
@@ -136,16 +136,6 @@ One of these greedy algorithms is correct. You must do three things:
 \end{enumerate}
 }
 
-\answer[0.25 in]{
-...
-}
-
-%----------------------------------------------------------------------
-
-\question[4]{
-Suppose you are given a rectangular board of size $2$ by $w \geq 1$ (the units here don't matter). You are also given an endless bag of dominoes, each of size $2$ by $1$. Write a program that accepts the integer $w$ as parameter, and returns the total number of unique ways the $2$ by $w$ board can be fully tiled. When we say \emph{fully tiled} here, we mean that every square on the board is covered by dominoes. State the runtime of your algorithm. \emph{*See the next problem for some additional details.}
-}
-
 \answer[0 in]{
 ...
 }
@@ -153,7 +143,9 @@ Suppose you are given a rectangular board of size $2$ by $w \geq 1$ (the units h
 %----------------------------------------------------------------------
 
 \question[4]{
-Now solve the exact same problem as above, except with a board of size $4$ by $w$. State the runtime of your algorithm. For example, if the input given is $w=2$, then the solution is $5$, the following image shows all of the combinations of fully tiled boards of width $w=2$:
+Suppose you are given a rectangular board of size $4$ by $w \geq 1$ (the units here don't matter). You are also given an endless bag of dominoes, each of size $2$ by $1$. Write a program that accepts the integer $w$ as parameter, and returns the total number of unique ways the $4$ by $w$ board can be fully tiled. When we say \emph{fully tiled} here, we mean that every square on the board is covered by dominoes. State the runtime of your algorithm.\\
+\\
+For example, if the input given is $w=2$, then the solution is $5$, the following image shows all of the combinations of fully tiled boards of width $w=2$:
 
 \begin{wrapfigure}{c}{3in}
 \centering
@@ -162,6 +154,9 @@ Now solve the exact same problem as above, except with a board of size $4$ by $w
 \epsfig{figure=Dominoes.PNG,width=4in}
 \vspace{-30pt}
 \end{wrapfigure}
+
+\emph{HINT: To solve this program, start by thinking of all the unique ending patterns a tiling can have. They are in the image below. Instead of using a recurrence to count all the tilings, count the number of tilings that have EACH individual ending pattern. Then think about ways you can take solutions with one ending pattern, to produce tilings of one width longer by making a few changes. The total number of tilings will be the sum of the number of tilings of the individual patterns. Good luck!}
+
 }
 
 \answer[0 in]{
