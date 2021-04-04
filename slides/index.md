@@ -35,7 +35,7 @@ CS4102 - Algorithms
 | | Mon. Mar. 29 | BREAK DAY | | | | |
 | | Wed. Mar. 31 | EXTRA BREAK DAY | | | Module 2 HW Hard Deadline | |
 | | Fri. Apr. 2  | | | | | |
-| | Mon. Apr. 5 | More greedy examples | | | | |
+| | Mon. Apr. 5 | Finish Activity Selection <br/> (CLRS 16.1) | [ppt](./DP_activitySelect_Proof.pptx) | | | |
 | | Wed. Apr. 7 | Dynamic Programming | | | | Greedy / Dyn. Prog. Written Basic (Recommended) |
 | | Fri. Apr. 9  | | | | | |
 | | Mon. Apr. 12 | More Dynamic Programming | | | | |
