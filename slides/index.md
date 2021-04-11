@@ -38,7 +38,7 @@ CS4102 - Algorithms
 | | Mon. Apr. 5 | Finish Activity Selection <br/> (CLRS 16.1) | [ppt](./DP_activitySelect_Proof.pptx) | | | |
 | | Wed. Apr. 7 | Dynamic Programming | | | | Greedy / Dyn. Prog. Written Basic (Recommended) |
 | | Fri. Apr. 9  | | | | | |
-| | Mon. Apr. 12 | More Dynamic Programming | | | | |
+| | Mon. Apr. 12 | Sequence Alignment and LCS <br/> (CLRS 15.4) | [ppt](./DP_sequences.pptx), [pdf](./DP_sequences.pdf) | | | |
 | | Wed. Apr. 14 | More Dynamic Programming | | | Module 3 HW Soft Deadline | Prog. Drainage (Recommended) |
 | | Fri. Apr. 16  | | | | | |
 | Network Flow and Reductions | Mon. Apr. 19 | Network Flow | | | | |
