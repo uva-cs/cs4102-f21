@@ -39,7 +39,7 @@ CS4102 - Algorithms
 | | Wed. Apr. 7 | Coin changing | | | | Greedy / Dyn. Prog. Written Basic (Recommended) |
 | | Fri. Apr. 9  | | | | | |
 | | Mon. Apr. 12 | Sequence Alignment and LCS <br/> (CLRS 15.4) | [ppt](./DP_sequences.pptx), [pdf](./DP_sequences.pdf) | | | |
-| | Wed. Apr. 14 | More Dynamic Programming | | | Module 3 HW Soft Deadline | Prog. Drainage (Recommended) |
+| | Wed. Apr. 14 | Gerrymandering (not in CLRS) |[ppt](./DP_gerrymander_s21.pptx), [pdf](./DP_gerrymander_s21.pdf) | | Module 3 HW Soft Deadline | Prog. Drainage (Recommended) |  
 | | Fri. Apr. 16  | | | | | |
 | Network Flow and Reductions | Mon. Apr. 19 | Network Flow | | | | |
 | | Wed. Apr. 21 | Max-Flow Min-Cut | | | | 1 Module Three Advanced HW (Recommended) |
