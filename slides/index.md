@@ -41,7 +41,7 @@ CS4102 - Algorithms
 | | Mon. Apr. 12 | Sequence Alignment and LCS <br/> (CLRS 15.4) | [ppt](./DP_sequences.pptx), [pdf](./DP_sequences.pdf) | | | |
 | | Wed. Apr. 14 | Gerrymandering (not in CLRS) |[ppt](./DP_gerrymander_s21.pptx), [pdf](./DP_gerrymander_s21.pdf) | | Module 3 HW Soft Deadline | Prog. Drainage (Recommended) |  
 | | Fri. Apr. 16  | | | | | |
-| Network Flow and Reductions | Mon. Apr. 19 | Network Flow | | | | |
+| Network Flow and Reductions | Mon. Apr. 19 | Network Flow and Ford-Fulkerson <br/> (CLRS 26.1-26.2) | [pptx](./Network-Flow.pptx) | | | |
 | | Wed. Apr. 21 | Max-Flow Min-Cut | | | | 1 Module Three Advanced HW (Recommended) |
 | | Fri. Apr. 23  | | | Quiz 2, 3 | | |
 | | Mon. Apr. 26 | Bi-partite Matching, reductions | | | | |
