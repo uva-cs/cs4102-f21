@@ -1,0 +1,119 @@
+\documentclass[12pt]{article}
+\usepackage[top=1in,bottom=1in,left=0.75in,right=0.75in,centering]{geometry}
+\usepackage{fancyhdr}
+\usepackage{epsfig}
+\usepackage[pdfborder={0 0 0}]{hyperref}
+\usepackage{palatino}
+\usepackage{wrapfig}
+\usepackage{lastpage}
+\usepackage{color}
+\usepackage{ifthen}
+\usepackage[table]{xcolor}
+\usepackage{graphicx,type1cm,eso-pic,color}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{latexsym}
+\usepackage{amssymb}
+
+\def\course{CS 2501: Data Structures and Algorithms II}
+\def\homework{Reductions: Written Problems}
+\def\semester{Spring 2020}
+
+\newboolean{solution}
+\setboolean{solution}{false}
+
+% add watermark if it's a solution exam
+% see http://jeanmartina.blogspot.com/2008/07/latex-goodie-how-to-watermark-things-in.html
+\makeatletter
+\AddToShipoutPicture{%
+\setlength{\@tempdimb}{.5\paperwidth}%
+\setlength{\@tempdimc}{.5\paperheight}%
+\setlength{\unitlength}{1pt}%
+\put(\strip@pt\@tempdimb,\strip@pt\@tempdimc){%
+\ifthenelse{\boolean{solution}}{
+\makebox(0,0){\rotatebox{45}{\textcolor[gray]{0.95}%
+{\fontsize{5cm}{3cm}\selectfont{\textsf{Solution}}}}}%
+}{}
+}}
+\makeatother
+
+\pagestyle{fancy}
+
+\fancyhf{}
+\lhead{\course}
+\chead{Page \thepage\ of \pageref{LastPage}}
+\rhead{\semester}
+%\cfoot{\Large (the bubble footer is automatically inserted into this space)}
+
+\setlength{\headheight}{14.5pt}
+
+\newenvironment{itemlist}{
+\begin{itemize}
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}}
+{\end{itemize}}
+
+\newenvironment{numlist}{
+\begin{enumerate}
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}}
+{\end{enumerate}}
+
+\newcounter{pagenum}
+\setcounter{pagenum}{1}
+\newcommand{\pageheader}[1]{
+\clearpage\vspace*{-0.4in}\noindent{\large\bf{Page \arabic{pagenum}: {#1}}}
+\addtocounter{pagenum}{1}
+\cfoot{}
+}
+
+\newcounter{quesnum}
+\setcounter{quesnum}{1}
+\newcommand{\question}[2][??]{
+\begin{list}{\labelitemi}{\leftmargin=2em}
+\item [\arabic{quesnum}.] {#2}
+\end{list}
+\addtocounter{quesnum}{1}
+}
+
+
+\definecolor{red}{rgb}{1.0,0.0,0.0}
+\newcommand{\answer}[2][??]{ 
+\ifthenelse{\boolean{solution}}{
+\color{red} #2 \color{black}}
+{\vspace*{#1}}
+}
+
+\definecolor{blue}{rgb}{0.0,0.0,1.0}
+
+\begin{document}
+
+\section*{\homework}
+
+
+
+%----------------------------------------------------------------------
+
+\question[1]{
+Formally prove that the \emph{Bi-Partite Matching} algorithm we saw in class is optimal (i.e, it always find the optimal matching between nodes in the bi-partite graph). \emph{HINT: Assume the algorithm is not optimal and show that you must be able to still find an augmenting path through the network, contradicting your assumption that max-flow terminated.}
+}
+
+
+
+%----------------------------------------------------------------------
+
+
+\question[3]{
+IKEA is growing in popularity across the US, however their stores are only found in a handful of larger metropolitan areas.  While their main product is furniture, they have become known for their signature meatballs.  To increase profits and make their delicious food more accessible, they have decided to open local take-out only IKEA Curbside restaurants in towns across the country.  Restaurant storefronts are expensive to rent and maintain, so they are happy with customers needing to drive at most to the next town over to get their IKEA meatball fix.  Specifically, their goal is that every town in America either has an IKEA Curbside, or its neighboring town has an IKEA Curbside.
+
+Given a graph representing the towns and roads between them (representing the towns being neighbors), the \emph{Curbside} problem is to decide whether $k$ IKEA Curbside locations can be placed in order to ensure that each town or its neighbor has an IKEA Curbside location.  Show that \emph{Curbside Takeout} is NP-Complete.
+
+Note: You are not being asked to explicitly solve the \emph{Curbside Takeout} problem; you are only required to show that it is NP-Complete.
+}
+
+%----------------------------------------------------------------------
+
+
+
+\end{document}

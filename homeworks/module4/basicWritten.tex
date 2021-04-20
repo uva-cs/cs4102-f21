@@ -16,9 +16,9 @@
 \usepackage{latexsym}
 \usepackage{amssymb}
 
-\def\course{CS 2501: DSA 2}
-\def\homework{Graphs - Advanced: Graph Proofs}
-\def\semester{Spring 2020}
+\def\course{CS 4102: Algorithms}
+\def\homework{Module 4: Basic Written}
+\def\semester{Spring 2021}
 
 \newboolean{solution}
 \setboolean{solution}{false}
@@ -95,28 +95,6 @@
 %----------------------------------------------------------------------
 
 \question[3]{
-\textbf{Warm Up:} Let $G$ be an undirected graph with $n$ nodes (let's assume $n$ is even). Prove or provide a counterexample for the following claim: If every node of $G$ has a degree of at least $\frac{n}{2}$, then $G$ must be connected.
-}
-
-
-
-\question[3]{
-Prove that the edge $e$ that Prim's algorithm selects at each point in the algorithm must be in the minimum spanning tree. Specifically, assume the $e$ is not in the minimum spanning tree and use and exchange argument to show that it must be.
-}
-
-
-
-%----------------------------------------------------------------------
-
-\question[1]{
-Formally prove that the \emph{Bi-Partite Matching} algorithm we saw in class is optimal (i.e, it always find the optimal matching between nodes in the bi-partite graph). \emph{HINT: Assume the algorithm is not optimal and show that you must be able to still find an augmenting path through the network, contradicting your assumption that max-flow terminated.}
-}
-
-
-
-%----------------------------------------------------------------------
-
-\question[3]{
 Suppose you are given a list of potential flights $F=\{f_1,f_2,...,f_n\}$ that your airline wishes to serve. You can think of these as flight objects. Each flight has several fields including starting airport, ending airport, departure time, and arrival time. Develop an algorithm that, given flights $F$ and a value $k$, determines whether it is possible to serve all of the flights in $F$ with at most $k$ planes. You must adhere to the following additional constraints:
 
 \begin{enumerate}
@@ -135,18 +113,28 @@ Suppose you are given a list of potential flights $F=\{f_1,f_2,...,f_n\}$ that y
 
 
 \question[3]{
-This problem is about robots that need to reach a particular destination. Suppose that you have an area represented by a graph $G = (V,E)$ and two robots with starting nodes $s_1, s_2 \in V$. Each robot also has a destination node $d_1,d_2 \in V$. Your task is to design a schedule of movements along edges in $G$ that move both robots to their respective destination nodes. You have the following constraints:
+The following problems are about reducing one problem to another in order to show one is NP-Hard.  We define the k-DAG problem as follows: Given a directed graph $G=(V,E)$ and value $k$, decide if a subset $S \subseteq V$ of size $k$ (and the edges attached to those vertices) can be removed such that the remaining graph has no cycles.
 
-\begin{enumerate}
-\item You must design a schedule for the robots. A schedule is a list of steps, where each step is an instruction for a single robot to move along a single edge.
-\item If the two robots ever get close, then they will interfere with one another (perhaps start an epic robot fight?). Thus, you must design a schedule so that the robots, at no point in time, exist on the same or adjacent nodes.
-\item You can assume that $s_1$ and $s_2$ are not the same or adjacent, and that the same is true for $d_1$ and $d_2$.
-\end{enumerate}
+We will reduce k-Vertex-Cover (kVC) to k-DAG using the following construction.  Recall that the inputs to kVC are an undirected graph $G$ and value $k$.  Given an instance of kVC, $G=(V,E)$ and $k$, create a new directed graph $G'=(V',E')$ for k-DAG where
 
-Design an algorithm that produces an optimal schedule for the two robots. What is the runtime of your algorithm? How would the runtime change as the number of robots grows?
+\begin{itemize}
+    \item $V'=V$ (it has the same vertices as the kVC instance).
+
+    \item For every edge $(u,v) \in E$ in undirected graph $G$ there will be two directed edges $(u,v)$ and $(v,u) \in E'$.
+    
+    \item We pass the same $k$ to k-DAG, i.e., $k' = k$.
+\end{itemize}
+
+\emph{Note: in a directed graph, two nodes $u$ and $v$ form a cycle if edges $(u,v)$ and $(v,u)$ exist.}
+
+\begin{itemize}
+	\item \textbf{2.1} Explain why a given $G$ will have a vertex cover of size $k$ if k-DAG determines that $G'$ has a subset of size $k$ that, when removed, will remove all cycles.
+
+	\item \textbf{2.2} We could ask you to prove the other direction of the relation described in the previous question, but we’re not asking that on this exam!  But answer this: assuming we have also proved this relationship in the other direction, why has what we have done proved that k-DAG is NP-Hard?
+
+	\item \textbf{2.3} Give a brief argument showing that k-DAG is also NP-Complete.
+\end{itemize}
 }
-
-
 
 
 \end{document}
