@@ -43,7 +43,7 @@ CS4102 - Algorithms
 | | Fri. Apr. 16  | | | | | |
 | Network Flow and Reductions | Mon. Apr. 19 | Network Flow and Ford-Fulkerson <br/> (CLRS 26.1-26.2) | [pptx](./Network-Flow.pptx),[pdf](./Network-Flow.pdf) <br/> ([Horton's live pptx](./maxflow_horton-19apr.pptx), [pdf](./maxflow_horton-19apr.pdf))
  | | | |
-| | Wed. Apr. 21 | Max-Flow Min-Cut | | | | 1 Module Three Advanced HW (Recommended) |
+| | Wed. Apr. 21 | Max-Flow Min-Cut | (slides in the 4/19 files)| | | 1 Module Three Advanced HW (Recommended) |
 | | Fri. Apr. 23  | | | Quiz 2, 3 | | |
 | | Mon. Apr. 26 | Bi-partite Matching, reductions | | | | |
 | | Wed. Apr. 28 | Intro to P, NP, NP-Complete | | | Module 3 HW Hard Deadline | Prog. Network Flow (Recommended) |
