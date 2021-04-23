@@ -36,7 +36,7 @@ CS4102 - Algorithms
 | | Wed. Mar. 31 | EXTRA BREAK DAY | | | Module 2 HW Hard Deadline | |
 | | Fri. Apr. 2  | | | | | |
 | | Mon. Apr. 5 | Activity Selection, incl. proof and weighted version) <br/> (CLRS 16.1) | [ppt](./DP_activitySelect_Proof.pptx) | | | |
-| | Wed. Apr. 7 | Coin changing | | | | Greedy / Dyn. Prog. Written Basic (Recommended) |
+| | Wed. Apr. 7 | Coin changing | [ppt](./DP_Greedy_coinChange.pptx), [pdf](./DP_Greedy_coinChange.pdf) | | | Greedy / Dyn. Prog. Written Basic (Recommended) |
 | | Fri. Apr. 9  | | | | | |
 | | Mon. Apr. 12 | Sequence Alignment and LCS <br/> (CLRS 15.4) | [ppt](./DP_sequences.pptx), [pdf](./DP_sequences.pdf) | | | |
 | | Wed. Apr. 14 | Gerrymandering (not in CLRS) |[ppt](./DP_gerrymander_s21.pptx), [pdf](./DP_gerrymander_s21.pdf) | | Module 3 HW Soft Deadline | Prog. Drainage (Recommended) |  
