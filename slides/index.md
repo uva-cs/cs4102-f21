@@ -45,7 +45,7 @@ CS4102 - Algorithms
  | | | |
 | | Wed. Apr. 21 | Max-Flow Min-Cut | (slides in the 4/19 files)| | | 1 Module Three Advanced HW (Recommended) |
 | | Fri. Apr. 23  | | | Quiz 2, 3 | | |
-| | Mon. Apr. 26 | Bi-partite Matching, reductions <br/> (CLRS 26.3) |[pptx](./Bipartite-Reductions.pptx),[pdf](./Bipartite-Reductions.pdf) <br/> ([Live session](./Bipartite-Reductions-live.pptx), [pdf](./Bipartite-Reductions-live.pdf) | | | | 
+| | Mon. Apr. 26 | Bi-partite Matching, reductions <br/> (CLRS 26.3) |[pptx](./Bipartite-Reductions.pptx),[pdf](./Bipartite-Reductions.pdf) <br/> ([Live session ppt](./Bipartite-Reductions-live.pptx), [pdf](./Bipartite-Reductions-live.pdf) | | | | 
 | | Wed. Apr. 28 | Intro to P, NP, NP-Complete <br/> (parts of CLRS 34)| [pptx](./NPC-part1.pptx),[pdf](./NPC-part1.pdf)  | | Module 3 HW Hard Deadline | Prog. Network Flow (Recommended) | NPC-part1
 | | Fri. Apr. 30  | | | | | |
 | | Mon. May. 3 | NP-Complete Reductions | | | | |
