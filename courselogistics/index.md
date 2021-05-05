@@ -78,12 +78,13 @@ Once the semester has ended. Each student will have a set of basic homeworks, ad
 | B- | 1 | 7 | 1 | 3 | 
 | B | 0 | 8 | 0 | 4 | 
 | B+ | 1 | 9 | 1 | 4 | 
-| A- | 2 | 10 | 0 | 5 | 
+| A- | 2 | 10 | 1 | 4 | 
 | A | 0| 12 | - | - | 
 | A+ | - | 15 | - | - | 
 
 **Legend**
 
+- ** Update: ** We changed quizzes for the A- level to be 1 Satisfactory and 4 Mastered.
 - **\***: To earn a D- or above, at least one satisfactory or mastery **homework** grade must come from each of 3 different modules.
 - **\*\***: To earn any C- or above, at least one satisfactory or mastery **homework** grade must come from each of the 4 modules.
 - **HW: S** is number of homeworks (basic or advanced) at the satisfactory level, but not higher

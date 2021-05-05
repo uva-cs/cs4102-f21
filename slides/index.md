@@ -48,7 +48,7 @@ CS4102 - Algorithms
 | | Mon. Apr. 26 | Bi-partite Matching, reductions <br/> (CLRS 26.3) |[pptx](./Bipartite-Reductions.pptx),[pdf](./Bipartite-Reductions.pdf) <br/> ([Live session ppt](./Bipartite-Reductions-live.pptx), [pdf](./Bipartite-Reductions-live.pdf) | | | | 
 | | Wed. Apr. 28 | Intro to P, NP, NP-Complete <br/> (parts of CLRS 34) <br/> Live session: NW circulation| [pptx](./NPC-part1.pptx),[pdf](./NPC-part1.pdf) <br/> ([Live session ppt](./Network-Flow-variations.pptx), [pdf](./Network-Flow-variations.pdf) | | Module 3 HW Hard Deadline | Prog. Network Flow (Recommended) | NPC-part1
 | | Fri. Apr. 30  | | | | | |
-| | Mon. May. 3 | NP-Complete Reductions | | | | |
+| | Mon. May. 3 | NP-Complete Reductions | ([Horton's live pptx](./horton-03may-live.pptx), [pdf](./horton-03may-live.pdf)) | | | |  
 | | Wed. May. 5 | More Reductions | | | Module 4 HW Soft Deadline | Network Flow Basic Written (Recommended) |
 | | Fri. May. 7  | | | Quiz 3, 4 | | |
 | Final Exams | Mon. May. 10 | | | | Module 4 HW Hard Deadline | 1 Module Four advanced HW (Recommended)  |
