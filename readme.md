@@ -22,7 +22,8 @@ repository first**
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the slides used in the course.
 - [Quiz 1 Info](courselogistics/quiz1-topics.html): Quiz 1, topics, rules, etc.
 - [Quiz 2 Info](courselogistics/quiz2-topics.html): How and when to take Quiz 2, topics, rules, etc.
-- <img src="http://www.cs.virginia.edu/~horton/new.gif"/> [Quiz 3 Info](courselogistics/quiz3-topics.html): How and when to take Quiz 3, topics, rules, etc.
+- [Quiz 3 Info](courselogistics/quiz3-topics.html): How and when to take Quiz 3, topics, rules, etc.
+- <img src="http://www.cs.virginia.edu/~horton/new.gif"/> [Quiz 4 Info](courselogistics/quiz4-topics.html): How and when to take Quiz 4, topics, rules, etc.
 
 <a name="contents"></a>Office Hours Schedule
 ------------------------------------------
