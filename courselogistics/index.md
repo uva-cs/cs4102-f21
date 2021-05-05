@@ -79,7 +79,7 @@ Once the semester has ended. Each student will have a set of basic homeworks, ad
 | B | 0 | 8 | 0 | 4 | 
 | B+ | 1 | 9 | 1 | 4 | 
 | A- | 2 | 10 | 1 | 4 | 
-| A | 0| 12 | - | - | 
+| A | 0| 12 | 0 | 5 | 
 | A+ | - | 15 | - | - | 
 
 **Legend**
