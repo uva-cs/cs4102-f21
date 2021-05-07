@@ -20,6 +20,7 @@ repository first**
 - [Homeworks](homeworks/index.html) ([md](homeworks/index.md)): The homeworks for the course, along with due dates and related things.
 - [Gradescope Info](./homeworks/gradescope.html): Information on submitting programming assignments to Gradescope.
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the slides used in the course.
+- <img src="http://www.cs.virginia.edu/~horton/new.gif"/> [Sample Exams](./exams/index.html): Some sample old exams.
 - [Quiz 1 Info](courselogistics/quiz1-topics.html): Quiz 1, topics, rules, etc.
 - [Quiz 2 Info](courselogistics/quiz2-topics.html): How and when to take Quiz 2, topics, rules, etc.
 - [Quiz 3 Info](courselogistics/quiz3-topics.html): How and when to take Quiz 3, topics, rules, etc.
