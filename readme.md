@@ -6,7 +6,7 @@ CS4102 - Algorithms
 <a name="introduction"></a>Introduction
 ---------------------------------------
 
-The repository contains content for CS4102 - Algorithms at [the University of Virginia](https://virginia.edu). This is a fully online course due to the continuing Covid-19 pandemic. The course will consist of online lectures (via Zoom), several homework assignments, and quizzes / exams.
+The repository contains content for CS4102 - Algorithms at [the University of Virginia](https://virginia.edu).
 
 
 <a name="contents"></a>Repository Contents
@@ -20,32 +20,44 @@ repository first**
 - [Homeworks](homeworks/index.html) ([md](homeworks/index.md)): The homeworks for the course, along with due dates and related things.
 - [Gradescope Info](./homeworks/gradescope.html): Information on submitting programming assignments to Gradescope.
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the slides used in the course.
-- <img src="http://www.cs.virginia.edu/~horton/new.gif"/> [Sample Exams](./exams/index.html): Some sample old exams.
-- [Quiz 1 Info](courselogistics/quiz1-topics.html): Quiz 1, topics, rules, etc.
-- [Quiz 2 Info](courselogistics/quiz2-topics.html): How and when to take Quiz 2, topics, rules, etc.
-- [Quiz 3 Info](courselogistics/quiz3-topics.html): How and when to take Quiz 3, topics, rules, etc.
-- <img src="http://www.cs.virginia.edu/~horton/new.gif"/> [Quiz 4 Info](courselogistics/quiz4-topics.html): How and when to take Quiz 4, topics, rules, etc.
+- [Sample Exams](./exams/index.html): Some sample old exams.
 
-<a name="contents"></a>Office Hours Schedule
+
+<a name="contents"></a>Office Hours Description and Schedule
 ------------------------------------------
 
-Office hours are held on our **Discord Server** every Sunday-Thursday from 6-10pm. To attend office hours, simply join the office hours queue voice channel and you will be added to the office hours queue. When you are taken off the queue you will be automatically moved to a staging room to wait (it is called oh-up-next). Soon after, a TA will manually pull you off that staging room into their office hours to help you.
+Office hours are held in various locations throughout the week and are of varying type. Information can be found below. There are two possible locations for office hours:
+
+- **In-Person OH**: Some OH will be held in-person (location TBD). See the chart below for details. These will function as *traditional* office hours.
+
+- **Discord OH**: Some OH will be held on our **Discord Server**. To attend office hours, simply join the office hours queue voice channel and you will be added to the office hours queue. When you are taken off the queue you will be automatically moved to a staging room to wait (it is called *oh-up-next* or similar). Soon after, a TA will manually pull you off that staging room into their office hours to help you.
+
+In addition, there are **three types of office hours**. These are described below:
+
+- **General OH**: TAs will be available to help with the topic of the week, each week throughout the semester. These function as *traditional* office hours you would likely have in any other class.
+
+- **Topic-Focused OH**: Office hours dedicated to one of the ten topics of the course. The TA for these topics will focus on helping students with that topic ONLY all semester. Their goal is to be the best resource for their specific topic (as much as possible). These are meant for students who are ahead in the course or who fall behing in the course and get can't help at general office hours.
+
+- **Group OH**: These are two weekly discussion sections where a TA will answer general questions regarding homeworks, quizzes, algorithm intution, etc. to larger groups of attendees.
+
 
 ### Office Hours Schedule:
 
-| Day | Time | Location | Description | 
-|-----|------|--------|-------------------------------|
-| Sunday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
-| Monday | 9:15am - 10:45am | Discord | Floryan's Office Hours |
-| Monday | 1:30 - 2:30pm | [Zoom](https://virginia.zoom.us/my/horton.uva) | Horton's Office Hours |
-| Monday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
-| **Monday** | **11am - 3pm** | **Discord** | **In-Person Regrades, Resubmission, and Grading w/ Ahsan** |
-| Tuesday | noon - 12:45pm | [Zoom](https://virginia.zoom.us/my/horton.uva)  | Horton's Office Hours |
-| Tuesday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
-| Wednesday | 1:30 - 2:30pm | [Zoom](https://virginia.zoom.us/my/horton.uva)  | Horton's Office Hours |
-| Wednesday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
-| Thursday | 6pm - 10pm | Discord | Standard Office Hours w/ Undergraduate TAs |
-| Friday | 11:00am - noon | [Zoom](https://virginia.zoom.us/my/horton.uva)  | Horton's Office Hours |
+| Day | Time | Type (Location) | Type (Location) | Type (Location) |
+|-----|------|--------|--------|
+| Sunday | 7pm - 10pm | General OH (In-Person) | Module 1 Topic-Focused (Discord) | Module 6 Topic-Focused (Discord) |
+| Monday | 7pm - 10pm | General OH (In-Person) | Module 2 Topic-Focused (Discord) | Module 7 Topic-Focused (Discord) |
+| Tuesday | 7pm - 10pm | General OH (In-Person) | Module 3 Topic-Focused (Discord) | Module 8 Topic-Focused (Discord) |
+| Wednesday | 7pm - 10pm | General OH (In-Person) | Module 4 Topic-Focused (Discord) | Module 9 Topic-Focused (Discord) |
+| Thursday | 7pm - 10pm | General OH (In-Person) | Module 5 Topic-Focused (Discord) | Module 10 Topic-Focused (Discord) |
+
+\ \ \ 
+
+| Day | Time | Type (Location) |
+|-----|------|--------|
+| Monday | 8pm - 10pm | Group OH (Discord) |
+| Thursday | 8pm - 10pm | Group OH (Discord) |
+
 
 
 <a name="contributing"></a>Contributing to this Repository

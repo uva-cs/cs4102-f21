@@ -13,12 +13,8 @@ The syllabus for the course can be found [here](./syllabus.pdf). Most (but not a
 <a name="lectures"></a>Lectures
 ------------------------------------------
 
-Each lecture in this course will be **split into two halves**, a *asynchronous recorded portion* and a *live in-person portion*. Some details on each can be found below. The total combined time for these lecture portions will be equal (or very close) to the normal lecture time (1 hour, 15 minutes). 
+Lectures will be held in-person in the classroom listed on the University Registrar. Lectures will be recorded for the convenience of those who cannot intend or prefer not to for any reason. At the time of writing, UVa has a mask mandate in effect, so all attendees in lecture will be required to wear a mask when on grounds. 
 
-- The **asynchronous recorded lecture** will be posted to the Collab Panopto Tool. This recording is intended to introduce the basic core material for each lecture. Students can watch this before class, or during the first half of class, before the in-person portion begins.
-- The **live in-person portion** of class will take place on Zoom, and will focus on extra examples, more complicated proofs, and other such things that require or benefit from an in-person explanation.
-
-Because of this split, the first 35 minutes of lecture will be reserved for students who wish to watch the recorded lecture during reserved class time. For example, if class is scheduled from 11-12:15, there **will not** be class from 11-11:35 so students may watch the recording (or students may watch it ahead of time, up to you). In-person class begins at 11:35 and will proceed until 12:15.
 
 <a name="textbook"></a>Textbook
 ------------------------------------------
@@ -32,66 +28,85 @@ We’ll post readings from the following textbook, and we urge you to read them 
 <a name="lectures"></a>Quizzes
 ------------------------------------------
 
-The course is divided into **4 overarching modules**, which are listed below.
+The course is divided into **10 modules**, each which lasts for about 1 week (some for 2 weeks). The 10 modules are listed below:
 
-- **Module 1: Divide and Conquer / Sorting**: Goes over the divide-and-conquer algorithm paradigm and how to solve recurrence relations to analyze runtimes of such algorithms. Introduces divide and conquer based sorting algorithms as well.
-- **Module 2: Graph Algorithms, MST, and Find-Union**: Reinforces the graph data structure and associated algorithms (BFS, DFS) and moves towards more advanced graph algorithms, including more rigorous analyses and more details of implementation.
-- **Module 3: Greedy Algorithms and Dynamic Programming**: Focuses on recursive solutions to problems, and how greedy algorithms can be used to quickly solve some problems. Introduces Dynamic Programming and Memoization to deal with overlapping subproblems.
-- **Module 4: Network Flow and Reductions**: Introduces a class of problems known as network flow, incuding the max-flow min-cut theorem and related algorithms. Introduces the concept of comparing problems through reductions and moves to concepts in P,NP,NP-Completeness.
+- **Module 1: Divide and Conquer - Insertion sort, Mergesort, and Quicksort**
+- **Module 2: Divide and Conquer - Recurrence Relations** 
+- **Module 3: Divide and Conquer - Advanced Topics** 
+- **Module 4: Graphs - BFS and DFS** 
+- **Module 5: Graphs - Kruskal's and Find-Union** 
+- **Module 6: Graphs - Prim's and Dijkstra's** 
+- **Module 7: Greedy Algorithms** 
+- **Module 8: Dynamic Programming** 
+- **Module 9: Network Flow and Ford-Fulkerson** 
+- **Module 10: Bi-Partite Matching and Reductions** 
 
-The course contains exactly **5 quizzes**. One per module and a final quiz on *putting it all together*. Each quiz can be taken multiple times, and each quiz can be in one of 3 states:
+The course contains exactly **10 quizzes** (one per module). Each quiz can be taken multiple times, and each quiz can be in one of 3 states:
 
-- **Incomplete**: The quiz has not been passed to any level of satisfaction yet.
-- **Satisfactory**: The student has shown knowledge in this area, but significant issues / problems have still been observed.
-- **Mastered**: The quiz has been fully passed to our satisfaction. The student knows the material, even if they show minor errors or flaws on the quiz.
+- **Not Passed**: The quiz has not been passed to any level of satisfaction yet.
+- **Pass**: The student has shown sufficient knowledge in this topic area.
+- **High Pass**: The student has shown significant or near perfect knowledge in this topic area.
 
-
-<a name="homeworks"></a>Homeworks and Grading Policy
-----------------------------------------------------------
-
-In this course, there are **4 overarching course modules**. Each module contains **2 basic homeworks** and **2 advanced homeworks**. As these are submitted, each assignment is graded on a simplified grading scale shown below:
-
-- **Incomplete**: The submission is not yet up to standard. This means programming assignments have major flaws or written assignments do not show competency in the course material. A grader will point out at least specific major flaw in the assignment.
-- **Satisfactory**: The assignment has been given clear effort, and is close to solving the problem(s) at hand. The assignment has clear, noticeable issues still but significant progress has been made.
-- **Mastered**: The assignment is perfect or near-perfect. The homework can have minor flaws and still be considered "mastered".
-
+You will always earn your **highest mark** on any quiz across all attempts. So, there is never any reason not to attempt a quiz if you are unsatisfied with your grade (your grade can never decrease).
 
 <a name="final"></a>Final Exam
 ----------------------------------------------------------
 
-There is no proper final exam in this course. The final exam time will be used to allow students to have a **final attempt on any quiz that is not yet passed**. Details on this will be announced as the final exam time comes nearer.
+There is no traditional final exam in this course. During the final exam time, you will be given one last attempt at all 10 of the course quizzes. This is your last chance to pass any quizzes that are still outstanding. If you have passed all topics (or are already happy with your final grade), then you may choose not to take the final.
+
+
+<a name="homeworks"></a>Homeworks
+----------------------------------------------------------
+
+There is **one homework assignment per module**, that must be completed in order to pass that module (more on passing modules in a moment). The homeworks in this course were designed with the following goals / principles in mind:
+
+- **Goal 1**: Homework should be low-stress to pass, but provide opportunity for deep, reflective practice with the material.
+- **Goal 2**: Every student should be required to show effort / progress on homework. Essentially, a student should provide evidence of engaging with the homework even if the quality of the work is not yet perfect.
+- **Goal 3**: Homeworks should be submittable at any time during the semester.
+
+For these reasons the homework in this course is required, with recommended deadlines (with automatic extensions), and can be submitted as many times as required. The grading state for each assignment is one of the following:
+
+- **Incomplete**: The student has not yet shown clear effort and engagement with the assignment. The homework is not at a passing level yet.
+- **Pass**: The assignment is at a passing level, though may not be perfect or mastered yet. The student is encouraged to continue engaging with perfecting the assignment even though they have passed if applicable.
+
+
+<a name="passing"></a>Passing a Module
+----------------------------------------------------------
+
+As stated earlier, the course contains **10 modules**. Each module, at any time, is always in one of the following states:
+
+- **Incomplete**: At least one of the homework or quiz for this module is still incomplete.
+- **Pass**: The homework AND the quiz have both been passed. The quiz is NOT at the high pass level.
+- **High Pass**: The homework is passed AND the quiz is passed at the *high-pass level*.
 
 <a name="lettergrades"></a>Final Letter Grades
 ----------------------------------------------------------
 
-Once the semester has ended. Each student will have a set of basic homeworks, advanced homeworks, and quizzes that are each at one of the three grading levels (incomplete, satisfactory, or mastered). To calculate final grades, simply count how many of each type of assignment is satisfactory and how many of each type are mastered. Look up the **highest row in the table below for which you reach or exceed the requirements** and that is your final course letter grade.
+Your letter grade in this course corresponds to the number **MODULES you have passed** (Note this is **MODULES** passed, not homeworks or quizzes. To pass a module, you must pass BOTH the homework AND the quiz in that module). Please note the following things when reading this grading chart:
 
-| Letter Grade | HW: S | HW: M | Q: S | Q: M |
-|:--------------:|:---:|:---:|:---:|:---:|
-| F | - | - | - | - |
-| D-\* | 4 | 2 | 1 | 0 | 
-| D | 3 | 3 | 0 | 1 | 
-| D+ | 2 | 4 | 1 | 1 | 
-| C-\*\* | 4 | 4 | 2 | 1 | 
-| C | 3 | 5 | 1 | 2 | 
-| C+ | 2 | 6 | 0 | 3 | 
-| B- | 1 | 7 | 1 | 3 | 
-| B | 0 | 8 | 0 | 4 | 
-| B+ | 1 | 9 | 1 | 4 | 
-| A- | 2 | 10 | 1 | 4 | 
-| A | 0| 12 | 0 | 5 | 
-| A+ | - | 15 | - | - | 
+- **Breadth matters more than depth**: Note that passing MORE modules is amost always better than increasing a passing module from *pass* to *high pass*. For example, if you have 8 modules passed (3 of which are high-pass). Then passing a new module will raise your grade to a *B*, while raising an old module to high-pass will raise your grade to only a *B-*.
+- **Depth starts to matter more once you reach a B**: Once you reach a grade of *B*, getting the modules to the high-pass level matters more.
+
+| Letter Grade | Modules Passed | Modules High-Pass |
+|:--------------:|:---:|:---:|
+| F | - | - |
+| D- | - | - |
+| D | 6 | 0 |
+| D+ | - | 1 |
+| C- | 7 | 0 |
+| C | - | 2 |
+| C+ | 8 | 0 |
+| B- | - | 4 |
+| B | 9 | 0 |
+| B+ | - | 6 |
+| A- | - | 7 |
+| A | - | 9 |
+| A+ | 10 | 9 |
 
 **Legend**
 
-- **Update:** We changed quizzes for the A- level to be 1 Satisfactory and 4 Mastered.
-- **\***: To earn a D- or above, at least one satisfactory or mastery **homework** grade must come from each of 3 different modules.
-- **\*\***: To earn any C- or above, at least one satisfactory or mastery **homework** grade must come from each of the 4 modules.
-- **HW: S** is number of homeworks (basic or advanced) at the satisfactory level, but not higher
-- **HW: M** is number of homeworks (basic or advanced) mastered
-- **Q: S** is number of quizzes at satisfactory level, but not mastered
-- **Q: M** is number of quizzes that have been mastered
 - A **blank row** translates to *No change from the row above*. This makes the table easier to read.
+- The number of modules at **high pass** is NOT summative. For example, the row for **B-** says 8 modules passed, and 4 of those 8 must be at the high-pass level (It is NOT the case that you need 4 additional modules at the high-pass level)
 
 
 
