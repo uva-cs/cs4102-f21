@@ -8,7 +8,7 @@ CS4102 - Algorithms
 
 | Week | Date | Module / Topic | Slides | Recommended Deadline |
 |-----|------|-----------------------------|-----------| -----------|
-| 1 | Tue, Aug. 24 | Intro to Course | ... |  |
+| 1 | Tue, Aug. 24 | Intro to Course | [<a href="./courseintroduction.pptx">pptx</a>] |  |
 |  | Thu, Aug. 26 | M1: Div. and Con. - Insertion sort, Mergesort, Quicksort | ... |  |
 | 2 | Tue, Aug. 31 | | ... |  |
 |  | Thu, Sep. 2 | M2: Div. and Con. - Recurrence Relations | ... |  |
