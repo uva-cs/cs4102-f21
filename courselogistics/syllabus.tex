@@ -29,7 +29,7 @@
 \newcommand{\timeline}[1]{{\color{red} -- #1}}
 \begin{document}
 
-\textbf{\Large UNDER CONSTRUCTION!!!}\\
+%\textbf{\Large UNDER CONSTRUCTION!!!}\\
 \textbf{\Large CS 4102: Algorithms} \hfill \textbf{\Large Fall 2021}
 
 \vskip 0.5in 
@@ -39,8 +39,8 @@
     \textbf{Tu/Th 12:30 am--1:45 pm } & \textbf{Tu/Th 2:00--3:15 pm}\\
     \textbf{Instructor:} Mark Floryan & \textbf{Instructor:} Tom Horton\\
     Email: \url{mfloryan@cs.virginia.edu} & Email: \url{horton@virginia.edu}\\
-    Office: Rice Hall 210 & Office: Rice Hall 401\\
-   Office Hours: See course website. & Office Hours:\\
+    Office: Rice Hall 203 & Office: Rice Hall 402\\
+   Office Hours: TBD. See course website & Office Hours: TBD. See course website\\
 %   &  \hskip 0.2in  Mo/We 1:30--2:30 pm; and,\\
 %   &  \hskip 0.2in Tu noon--12:45 pm; and,\\
 %   &  \hskip 0.2in  Fr 11:00--noon\\
@@ -53,10 +53,11 @@
 \end{tabular}}
 
 \vskip 0.1in
-\textbf{Teaching Assistants:} See course website.  Office hours will be done primarily using Discord. Join the course's ``server:''  {\tt https://discord.gg/ycPkfQK9}
+\textbf{Teaching Assistants:} See course website.  Office hours will be done in-person and using Discord. Join the course's ``server:''  {\tt https://discord.gg/GqqakWbs} 
+
 
 \vskip 0.1in
-\textbf{Course website:} {\tt https://uva-cs.github.io/cs4102-f21/}   We will also use of Collab.
+\textbf{Course website:} {\tt https://uva-cs.github.io/cs4102-f21/}   (We will also use Collab.)
 
 \textbf{Prerequisites:} CS 2102 and 2150 with grades of C- or higher, and math knowledge from APMA 1090 or MATH 1210 or MATH 1310. (Prerequisites are important to this course and will be enforced!)
 
@@ -118,7 +119,7 @@ For each module, there will be:
     \item 1 quiz
 \end{itemize}
 
-\textbf{Quizzes:}  Each quiz is a short assessment of your knowledge of a module. So quizzes are meant to ensure you have knowledge of the individual topics from lecture to a sufficient degree. There are 3 possible grades for a quiz: incomplete, pass, or high-pass. You will have multiple opportunities to take each quiz (3 attempts for 8, but only 2 for the last two quizzes).
+\textbf{Quizzes:}  Each quiz is a short assessment of your knowledge of a module. So quizzes are meant to ensure you clearly demonstrate competence regarding the individual topics for that module.  You will have multiple opportunities to take each quiz (3 attempts for the first eight, but only 2 chances to take the last two quizzes).
 
 Quizzes will be given in-person in your scheduled lecture time as follows:\\
 \begin{tabular}{ll}
@@ -134,10 +135,10 @@ Final Exam period, Tue, Dec 14, 7:00 pm 	&	Mod 1-10 (final attempts) \\
 \textbf{Grading:} This course has a system for determining grades that is unlike many courses, and is fully explained on the course website under ``Course Logistics.'' Full details are explained there, but here are the major points.
 \begin{itemize}
     \item We will use a grading approach based on a an approach called {\it masterry learning\/}. Our approach tries to model the CS department's official policy on what course grades should mean, found at {\tt http://ugrads.cs.virginia.edu/grading-guidelines.html}
-    
     \item Quizzes are scored at one of three levels:  incomplete, pass, or high-pass.
     \item Homeworks are scored at one of two levels:  incomplete or pass.
-    \item With some limitations, a quiz or homework that can be done again to earn a higher score.
+    \item With some limitations, a quiz can be re-taken or homework can be re-submitted to earn a higher score.
+    \item To pass a module, you must pass the module's homework and get a pass or high-pass on its quiz.
     \item Your final letter grade is determined by how many modules you pass. Also, earning high-passes on module quizzes can raise your grade a bit more.
     \item The website has a table showing what you need to achieve to reach a particular letter grade.
 \end{itemize}
@@ -150,7 +151,7 @@ This system is unlike that of most courses in CS you've taken, and we expect you
     \item Cygwin (which you saw in CS 2150) has \LaTeX{} packages that can be installed
     \item MiKTeX provides a stand-alone installer for Windows and Mac, \url{miktex.org}
     \item Ubuntu and CentOS provide TeXLive packages in their repos
-    \item LyX, TexShop, and TeXStudio are GUI editors available either through the MiKTeX and TeXLive repos or available as separate downloads.
+    \item LyX, TexShop, TeXworks, and TeXStudio are GUI editors available either through the MiKTeX and TeXLive repos or available as separate downloads.
 \end{itemize}
 We strongly recommend using Overleaf, \url{http://overleaf.com}, since it contains all the necessary packages and works in-browser. We generally will not accept \LaTeX{} documents with images of text or formulas; \textbf{you must typeset the formulas in \LaTeX}, not in another program and have them exported as images.
 
@@ -166,9 +167,13 @@ We strongly recommend using Overleaf, \url{http://overleaf.com}, since it contai
 
 \textbf{Homeworks:} You are encouraged to collaborate with up to 2 other students in the course on each homework, but all work submitted must be your own independently written solution.  While you may discuss techniques and collectively solve the problems in your group, you may \textbf{not} share any files or look at each others' write-up or code. For instance, sharing source code files or Overleaf or Google Docs is \textbf{not} allowed.  Likewise, pair programming or sharing the debugging of code are \textbf{not} allowed.  Any solutions that share similar text or code will be considered in breach of this policy. You \textbf{must} list the names and computing IDs of all of your collaborators in your submitted \texttt{tex}, \texttt{py}, and \texttt{java} files.
 
-\textbf{Do not} seek published or online solutions for any assignment or exam. Any submission which is discovered to be similar to a published solution or one found online will be considered in breach of this policy. If you use any published or online resources (they must not include solutions) when completing your assignments, be sure to cite them. 
+We encourage you \textbf{not} to seek published or online solutions for any assignment, since this is not a good way to learn. Studying code online is permitted, but only for getting ideas about how to address a programming solution. 
+Copying or reusing code from an online source violates the honor pledge for that homeowrk. 
+You must cite sources of any online code you use in this way in a comment in your source file(s)
 
-Note that it is a violation of this policy to submit a problem solution that you are unable to explain orally to a member of the course staff, and we reserve the right to spot-check for this requirement.
+Any submission which is discovered to be similar to a published solution or one found online will be considered in breach of this policy.
+
+Note that it is a violation of this policy to submit a problem solution that you are unable to explain orally to a member of the course staff, and we reserve the right to spot-check for this requirement and to use tools like {\tt moss} etc. to detect shared code.
 
 \textbf{Penalty:} Assignments or quizzes where violations of this policy occur will receive a \textbf{zero} grade for that entire assignment or exam, as well as a \textbf{full letter-grade} penalty on the course grade.  Second infractions will result in a \textbf{failing (F)} grade in the course.  Any infractions will also be submitted to the Honor Committee if deemed appropriate.
 
@@ -202,6 +207,9 @@ As your professor and as a person, know that we each care about you and your wel
 \textbf{Well-being:} If you are feeling overwhelmed, stressed, or isolated, there are many individuals here who are ready and wanting to help. The Student Health Center offers Counseling and Psychological Services (CAPS) for all UVA students. Call 434-243-5150 (or 434-972-7004 for after hours and weekend crisis assistance) to get started and schedule an appointment. If you prefer to speak anonymously and confidentially over the phone, Madison House provides a HELP Line at any hour of any day: 434-295-8255.
 
 \textbf{Syllabus Note:} This syllabus is to be considered a reference document that may be adjusted throughout the course of the semester to address necessary changes. This syllabus can be changed at any time without notification; it is up to the student to monitor the website for news of any changes. Final authority on any decision in this course rests with the professor, not with this document.
+
+\textbf{Research:}
+Your class work might be used for research purposes. For example, we may use anonymized scores from student assignments to compare to other student performance data. Any student who wishes to opt out can contact the instructor or TA to do so after final grades have been issued. This has no impact on your grade in any manner. 
 
 
 
