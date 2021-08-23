@@ -3,7 +3,7 @@ CS4102 - Covid Policies and FAQ
 
 Last updated: 8/23/2021
 
-Q: I am worried about the virus: will I know if there is an unvaccinated students in the class?
+Q: I am worried about the virus: will I know if there is an unvaccinated student in the class?
 -----------
 
 In this message https://coronavirus.virginia.edu/updates/important-information-about-fall-2021 , the University announced that all students who live, learn, or work in person at the University during the next academic year must be fully vaccinated before returning to Grounds unless they have obtained a medical or religious exemption from the University. Therefore, you can expect that students in your class are vaccinated. A very small number of students have received vaccination exemptions, so the likelihood that an unvaccinated student is in your class is slight.

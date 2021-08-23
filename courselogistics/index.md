@@ -15,6 +15,9 @@ The syllabus for the course can be found [here](./syllabus.pdf). Most (but not a
 
 Lectures will be held in-person in the classroom listed on the University Registrar. Lectures will be recorded for the convenience of those who cannot intend or prefer not to for any reason. At the time of writing, UVa has a mask mandate in effect, so all attendees in lecture will be required to wear a mask when on grounds. 
 
+<a name="covid"></a>Covid-19 Policies and FAQ
+------------------------------------------
+Everyone please read this page on [policies and information about how Covid-19 will affect our course](./covid.html).
 
 <a name="textbook"></a>Textbook
 ------------------------------------------
@@ -43,7 +46,7 @@ The course is divided into **10 modules**, each which lasts for about 1 week (so
 
 The course contains exactly **10 quizzes** (one per module). Each quiz can be taken multiple times, and each quiz can be in one of 3 states:
 
-- **Not Passed**: The quiz has not been passed to any level of satisfaction yet.
+- **Incomplete**: The quiz has not been passed to any level of satisfaction yet.
 - **Pass**: The student has shown sufficient knowledge in this topic area.
 - **High Pass**: The student has shown significant or near perfect knowledge in this topic area.
 

@@ -16,7 +16,7 @@ The repository contains content for CS4102 - Algorithms at [the University of Vi
 this online at github.com -- you will need to clone (download) the
 repository first**
 
-- [Course Logistics](courselogistics/index.html): The syllabus, introductory slide deck, grading policy, course schedule, etc.
+- [Course Logistics](courselogistics/index.html): The syllabus, introductory slide deck, grading policy, course schedule, Covid-19 policies, etc.
 - [Homeworks](homeworks/index.html) ([md](homeworks/index.md)): The homeworks for the course, along with due dates and related things.
 - [Gradescope Info](./homeworks/gradescope.html): Information on submitting programming assignments to Gradescope.
 - [Schedule and Slides](slides/index.html) ([md](slides/index.md)): Contains the slides used in the course.
