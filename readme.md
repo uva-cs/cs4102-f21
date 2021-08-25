@@ -43,6 +43,14 @@ In addition, there are **three types of office hours**. These are described belo
 
 ### Office Hours Schedule:
 
+#### Faculty Office Hours
+
+| Day | Time | Type (Location) | 
+|---|-----|------|
+| Tuesday | 11:00am - 12:30pm | Floryan (Discord) |
+
+#### TA Office Hours 
+
 | Day | Time | Type (Location) | Type (Location) | Type (Location) |
 |---|-----|------|--------|--------|
 | Sunday | 7pm - 10pm | General OH (In-Person) | Module 1 Topic-Focused (Discord) | Module 6 Topic-Focused (Discord) |
