@@ -16,7 +16,7 @@ That page also explains how the score reported by Gradescope translates to the t
 
 | Module Number | Module Name | Assignment |
 |-----|----------------------------------|------------------------|
-| Module 1 | Div. and Con.: Insertion sort, Mergesort, and Quicksort | TBD |
+| Module 1 | Div. and Con.: Insertion sort, Mergesort, and Quicksort | <a href="./fall2021/m1-sorting.pdf">Sorting</a> (grab the <a href="./fall2021/sortingCode.zip">code here</a>) |
 | Module 2 | Div. and Con.: Recurrence Relations | TBD |
 | Module 3 | Div. and Con.: Advanced Topics | TBD |
 | Module 4 | Graphs: BFS and DFS | TBD |
