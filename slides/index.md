@@ -11,8 +11,8 @@ CS4102 - Algorithms
 | 1 | Tue, Aug. 24 | Intro to Course | | [<a href="./courseintroduction.pptx">pptx</a>], [[pdf]](./courseintroduction.pdf) |  |
 |  | Thu, Aug. 26 | M1: Div. and Con. - Sorting | Insertion Sort, Mergesort <br/> (Readings: CLRS Ch. 2 | [[ppt]](./sorting-intro-f21.pptx), [[pdf]](./sorting-intro-f21.pdf) |  |
 | 2 | Tue, Aug. 31 | | Quicksort <br/> (Readings: CLRS Ch. 7 thru p. 175) | (slides coming soon) | |
-|  | Thu, Sep. 2 | M2: Div. and Con. - Recurrence Relations | | ... |  |
-| 3 | Tue, Sep. 7 |  || ... | M1: Sorting |
+|  | Thu, Sep. 2 | M2: Div. and Con. - Recurrence Relations | Solving Recurrences pt. 1 <br/> Readings: CLRS Ch. 4.3-4.5 | <a href="./recurrences.pptx">pptx</a> |  |
+| 3 | Tue, Sep. 7 |  | Recurrence Relations pt. 2 | Same as above | M1: Sorting |
 |  | Thu, Sep. 9 | M3: Div. and Con. - Advanced | | ... |  |
 | 4 | Tue, Sep. 14 |  | | ... | M2: Recurrence Relations |
 |  | Thu, Sep. 16 | M4: Graphs - BFS and DFS | | ... |  |

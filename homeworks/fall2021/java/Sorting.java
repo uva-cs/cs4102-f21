@@ -3,19 +3,11 @@ import java.util.HashMap;
 
 public class Sorting {
 
-	public static<T extends Comparable<T>> void insertionSort(T[] list) {
+	public static<T extends Comparable<T>> void insertionSort(T[] list, int i, int j) {
 		//TODO: IMPLEMENT THIS METHOD
 	}
 	
-	
-
-	
-	
-	public static<T extends Comparable<T>> void quickSort(T[] list) {
-		//TODO: IMPLEMENT THIS METHOD
-	}
-	
-	private static<T extends Comparable<T>> void quickSort(T[] list, int i, int j) {
+	private static<T extends Comparable<T>> void quickSort(T[] list, int i, int j, int minSize) {
 		//TODO HELPER METHOD FOR QUICKSORT THAT TAKES IN INDICES
 	}
 	

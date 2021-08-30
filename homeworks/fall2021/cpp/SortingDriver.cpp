@@ -5,8 +5,8 @@
 
 using namespace std;
 
-void insertionSort(vector<int> &list);
-void quickSort(vector<int> &list);
+void insertionSort(vector<int> &list, int i, int j);
+void quickSort(vector<int> &list, int i, int j, int minSize);
 bool checkSorted(vector<int> &orig, vector<int> &sorted);
 
 /* Number of elements to sort */
@@ -26,13 +26,13 @@ int main() {
 	
 
 	cout << "Sorting using insertion sort...";
-	insertionSort(ins);
+	insertionSort(ins, 0, ins.size()-1);
 	cout << "DONE\nChecking if sorted correctly...";
 	checkSorted(list, ins);
 	cout << "DONE" << endl;
 	
 	cout << "Sorting using quick sort...";
-	quickSort(qui);
+	quickSort(qui, 0, qui.size()-1, 1);
 	cout << "DONE\nChecking if sorted correctly...";
 	checkSorted(list, qui);
 	cout << "DONE" << endl;

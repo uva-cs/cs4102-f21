@@ -17,13 +17,13 @@ public class SortingDriver {
 		Integer[] qui = list.clone();
 		
 		System.out.print("Sorting using insertion sort...");
-		Sorting.insertionSort(ins);
+		Sorting.insertionSort(ins, 0, ins.length-1);
 		System.out.print("DONE\nChecking if sorted correctly...");
 		checkSorted(list, ins);
 		System.out.println("DONE");
 		
 		System.out.print("Sorting using quick sort...");
-		Sorting.quickSort(qui);
+		Sorting.quickSort(qui, 0, qui.length-1, 1);
 		System.out.print("DONE\nChecking if sorted correctly...");
 		checkSorted(list, qui);
 		System.out.println("DONE");
