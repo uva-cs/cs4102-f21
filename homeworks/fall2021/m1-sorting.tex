@@ -14,7 +14,9 @@
 
 \begin{document}
 
-\section*{Sorting Out Quicksort}
+\section*{CS 4102, Algorithms:  Homework 1, Fall 2021 \\
+Sorting Out Quicksort}
+%\section*{Sorting Out Quicksort}
 
 %\subsection*{Description}
 
@@ -35,17 +37,17 @@ gerund or present participle: sorting \\
 ``the problem with the engine was soon sorted''
 \end{quote}
 
-This homework requires you to implement the insertion sort and quicksort functions (methods) and associated code to test and analyze the sorting routines on various data files. As always for our programming assignments, you can write your code in C++, Java, or Python 3. You will use system calls to print out the time required by sections of your code; we'll provide examples and guidance on how to do this.  Your version of quicksort will use the ``tuning'' discussed in class where small lists are not sorted recursively with quicksort but instead are sorted with insertion sort.
+This homework requires you to implement insertion sort and quicksort functions (methods) and associated code to test and analyze these sorts on various lists of data. As always for our programming assignments, you can write your code in C++, Java, or Python 3. You will use system calls to print out the time required by sections of your code; we'll provide guidance on how to do this.  Your version of quicksort will use the ``tuning'' discussed in class where small lists are not sorted recursively with quicksort but instead are sorted with insertion sort.
 
-Part of this homework will be like a lab exercise or experiment where you'll run your code on different unsorted lists, study the time taken by your sorting algorithm, and answer some questions. You'll submit a PDF file with the answers to those questions.  But you will also submit your code to GradeScope where it will be run against test-cases to show that your sorting methods work correctly. (GradeScope will not test for efficiency or time-complexity.)
+Part of this homework will be like a lab exercise or experiment where you'll run your code on different unsorted lists, study the time taken by your sorting algorithm, and answer some questions. You'll submit a PDF file with the answers to those questions.  But you will also submit your code to GradeScope where your sort functions will be called and run against test-cases to show that your sorting methods work correctly. (GradeScope will not test for efficiency or time-complexity.)
 
 \subsection*{What You Will Code}
 Here are instructions for what we want you to code.
 \begin{itemize}
 
-	\item Write a function {\tt insertionsort()} that takes 3 parameters: a list, a {\em start\/} index, and an {\em end\/} index. The function will sort the portion of the list from index {\em start\/} through {\em end\/} (inclusive) using insertion sort. The list parameter will be a Python list, a Java ArrayList or a C++ vector., and it will store integer values. The function will not return anything (return type if {\em void\/} or the equivalent). List elements will be sorted in non-descending order. Lists in these languages are zero-indexed, so if {\em start\/} is 0 then sorting starts at the beginning of the list.  If {\em end\/} is {\em{list.size()-1}} then sorting is done to the last element of the list.
+	\item Write a function {\tt insertionsort()} that takes 3 parameters: a list, a {\em start\/} index, and an {\em end\/} index. The function will sort the portion of the list from index {\em start\/} through {\em end\/} (inclusive) using insertion sort. The list parameter will be a Python list, a Java ArrayList or a C++ vector that contains integer values. The function will not return anything (return type of {\em void\/} or the equivalent). List elements will be sorted in non-descending order. Lists in these languages are zero-indexed, so if {\em start\/} is 0 then sorting starts at the beginning of the list.  If {\em end\/} is {\em{list.size()-1}} then sorting is done to the last element of the list.
 
-	\item Write a function {\tt quicksort()} that takes 4 parameters: a list, a {\em start\/} index, an {\em end\/} index, and an int value {\em minsize.}  This function will work like the insertion sort function except that it will use quicksort. (See next item for details about partitioning.) The first 3 parameters serve the same role as for the insertion sort function. The 4th parameter is used to control what quicksort does when it's processing a small list, that is one that has $\leq$ {\em minsize} elements.  If {\em minsize} $> 1$ and the size of the sub-list between {\em start\/} and {\em end\/} is $\leq$ {\em minsize}, then that sub-list is sorted with your insertion sort function.  If {\em minsize} $\leq 1$ or the size of the sublist is $>$ {\em minsize}, then insertion sort is not used on the small sub-list. 
+	\item Write a function {\tt quicksort()} that takes 4 parameters: a list, a {\em start\/} index, an {\em end\/} index, and an int value {\em minsize.}  This function will work like the insertion sort function except that it will use quicksort. (See next item for details about partitioning.) The first 3 parameters serve the same role as for the insertion sort function. The 4th parameter is used to control what quicksort does when it's processing a small list, that is one that has $\leq$ {\em minsize} elements.  If {\em minsize} $> 1$ and the size of the sub-list between {\em start\/} and {\em end\/} is $\leq$ {\em minsize}, then that sub-list is sorted with your insertion sort function.  If {\em minsize} $\leq 1$ or the size of the sublist is $>$ {\em minsize}, then insertion sort is not used on the small sub-list and sorting is done with a recursive call to {\em quicksort().}
 	
 	Observe that passing the function a {\em minsize} value $\leq 1$ means that your quicksort will not use insertion sort at all.  We'll call this {\em ``pure'' quicksort\/}, and when insertion sort is used on small lists we'll call this {\em ``hybrid'' sorting.}
 	
@@ -60,23 +62,23 @@ Here are instructions for what we want you to code.
 
 \subsection*{The Exercises}
 
-The following explains what we want you to do with your code once it is written and working (according to the provided driver). Some of these activities are experiments that require you to report on results. Your report must be a document (in PDF format) that is simple and easy to read. Each of the five experiements listed below must be clearly labeled, with the values clearly reported as required and short explanations given when we ask for that.
+The following explains what we want you to do with your code once it is written and working (according to the provided driver). Some of these activities are experiments that require you to report on results. Your report must be a document (in PDF format) that is simple and easy to read. Answers for each of the five experiments listed below must be clearly labeled, with the values clearly reported as required and short explanations given when we ask for that.
 \begin{itemize}
 
 \item Test your two sorting functions to convince yourself that they work. Do this by tweaking your implementation to ensure you still get positive results from the provided driver (e.g., you might break your implementation on purpose to ensure the driver now crashes, etc.). For quicksort, test it with {\em minsize} $\leq 1$ to make sure it works as ``pure'' quicksort, and then with that value set to some small value $>1$ to make sure the ``hybrid'' sort works. Once you are convinced your code is working correctly, do each of the following experiments. \textbf{NOTE: FOR SOME OF THESE EXPERIMENTS, YOU'LL NEED TO TWEAK THE DRIVER PROGRAM. YOU MIGHT WANT TO HAVE A BACKUP COPY AVAILABLE IN CASE YOU NEED TO REVERT.}
 
-\item {\bf Experiment 1:} Run an experiment in which you fill a list with random values between 1 and 1,000,000. Time both insertion sort and ``pure'' quicksort.  How big should this list be?  You'll experiment with the size to find a size that is large enough that comparing the run-times of the algorithms shows a meaningful difference.  Once you've found this size (let's call is X), do this two more times with a list that's 2 times the first size(2X), and then with a list that's 3 times the first size (3X).
+\item {\bf Experiment 1:} Run an experiment in which you fill a list with random values between 1 and 1,000,000. Time both insertion sort and ``pure'' quicksort.  How big should this list be?  You'll experiment with the size to find a size that is large enough that comparing the run-times of the algorithms shows a meaningful difference.  Once you've found this size (let's call it X), do this two more times with a list that's 2 times the first size (2X), and then with a list that's 3 times the first size (3X). The value of X that works best for you may depend on your computer and what language you code in, so you'll have to experiment a little.
 
 For this and the folllowing experiments, be sure you only time the execution of the sort itself (and not the creation of the list or anything else).
 
 In your report document the run-time for both insertion sort and ``pure quicksort'' for these three lists of size X, 2X, and 3X (where X is the initial size you chose).  Explain if the times are what you expect to see based on your knowledge of the order-class of these sorts.
 
-\item {\bf Experiment 2:} Pick one of the input sizes used in the previous experiment, and create a list in sorted order. If your {\em partition()\/} function randomly chose an element to partition around, comment that out or disable it for this experiment (i.e., have partition use the element in the first index to partition instead). Run both insertion sort and ``pure'' quicksort with this list and record the run-times. Explain if the times are what you expect to see based on your knowledge of these sorts.
+\item {\bf Experiment 2:} Pick one of the input sizes used in the previous experiment, and create a list in sorted order. If your {\em partition()\/} function randomly chose an element to partition around, comment that out or disable it for this experiment (i.e., have partition use the element at one end of the sublist to partition around instead). Run both insertion sort and ``pure'' quicksort with this list and record the run-times. Explain if the times are what you expect to see based on your knowledge of these sorts.
 
 \item {\bf Experiment 3:} Repeat the previous experiment but make the list be in reverse-order.
 
 \item {\bf Experiment 4:} (If your {\em partition()\/} function randomly chose an element to partition around, you should now restore that ability if you disabled it for the previous two experiments.) \\
-Create a list of the same size as in the last two experiments that is "almost" sorted. Here, by "almost
+Create a list of the same size as in the last two experiments that is ``almost sorted.'' Here, by ``almost
 sorted", we mean that each element in the unsorted list is about~5--10 positions away
 from its correct position, but almost all elements are not in their final position.
 
