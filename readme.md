@@ -53,18 +53,18 @@ In addition, there are **three types of office hours**. These are described belo
 
 | Day | Time | Type (Location) | Type (Location) | Type (Location) |
 |---|-----|------|--------|--------|
-| Sunday | 7pm - 10pm | General OH (In-Person) | Module 1 Topic-Focused (Discord) | Module 6 Topic-Focused (Discord) |
-| Monday | 7pm - 10pm | General OH (In-Person) | Module 2 Topic-Focused (Discord) | Module 7 Topic-Focused (Discord) |
-| Tuesday | 7pm - 10pm | General OH (In-Person) | Module 3 Topic-Focused (Discord) | Module 8 Topic-Focused (Discord) |
-| Wednesday | 7pm - 10pm | General OH (In-Person) | Module 4 Topic-Focused (Discord) | Module 9 Topic-Focused (Discord) |
-| Thursday | 7pm - 10pm | General OH (In-Person) | Module 5 Topic-Focused (Discord) | Module 10 Topic-Focused (Discord) |
+| Sunday | 7pm - 10pm | General OH (OLS 001) | Module 1 Topic-Focused (Discord) | Module 6 Topic-Focused (Discord) |
+| Monday | 7pm - 10pm | General OH (OLS 001) | Module 2 Topic-Focused (Discord) | Module 7 Topic-Focused (Discord) |
+| Tuesday | 7pm - 10pm | General OH (OLS 001) | Module 3 Topic-Focused (Discord) | Module 8 Topic-Focused (Discord) |
+| Wednesday | 7pm - 10pm | General OH (OLS 001) | Module 4 Topic-Focused (Discord) | Module 9 Topic-Focused (Discord) |
+| Thursday | 7pm - 10pm | General OH (OLS 001) | Module 5 Topic-Focused (Discord) | Module 10 Topic-Focused (Discord) |
 
 \ \ \ 
 
 | Day | Time | Type (Location) |
 |-----|------|--------|
 | Monday | 8pm - 10pm | Group OH (Discord) |
-| Tuesday | 8pm - 10pm | Group OH (In-Person) |
+| Tuesday | 8pm - 10pm | Group OH (OLS 120) |
 | Thursday | 8pm - 10pm | Group OH (Discord) |
 
 
