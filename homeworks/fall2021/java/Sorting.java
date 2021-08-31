@@ -1,18 +1,16 @@
 
-import java.util.HashMap;
-
 public class Sorting {
 
-	public static<T extends Comparable<T>> void insertionSort(T[] list, int i, int j) {
-		//TODO: IMPLEMENT THIS METHOD
+	public static<T extends Comparable<T>> void insertionSort(T[] list, int start, int end) {
+		//TODO: IMPLEMENT INSERTION SORT. MAKE SURE TO USE .compareTo FOR COMPARISONS
 	}
 	
-	private static<T extends Comparable<T>> void quickSort(T[] list, int i, int j, int minSize) {
-		//TODO HELPER METHOD FOR QUICKSORT THAT TAKES IN INDICES
+	public static<T extends Comparable<T>> void quickSort(T[] list, int i, int j, int minSize) {
+		//TODO: IMPLEMENT INSERTION SORT
 	}
 	
 	private static<T extends Comparable<T>> int partition(T[] list, int i, int j) {
-		//TODO: PARTITION THE PORTION OF THE LIST BETWEEN i AND j
+		//TODO: WILL NEED PARTITION FOR QUICKSORT!
 	}
 
 }

@@ -5,7 +5,7 @@
 
 using namespace std;
 
-void insertionSort(vector<int> &list, int i, int j);
+void insertionSort(vector<int> &list, int start, int end);
 void quickSort(vector<int> &list, int i, int j, int minSize);
 bool checkSorted(vector<int> &orig, vector<int> &sorted);
 

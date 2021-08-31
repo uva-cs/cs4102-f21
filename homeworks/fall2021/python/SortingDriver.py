@@ -50,13 +50,13 @@ ins = copy.deepcopy(list)
 qui = copy.deepcopy(list)
 
 print("Sorting using insertion sort...",end='')
-insertionSort(ins, 0, len(ins)-1);
+insertionSort(ins, 0, len(list)-1);
 print("DONE\nChecking if sorted correctly...",end='')
 checkSorted(list, ins);
 print("DONE")
 
 print("Sorting using quick sort...",end='')
-quickSort(qui, 0, len(qui)-1, 1);
+quickSort(qui, 0, len(list)-1, 1);
 print("DONE\nChecking if sorted correctly...",end='')
 checkSorted(list, qui);
 print("DONE")

@@ -1,9 +1,9 @@
 
-def insertionSort(list, i, j):
-	#TODO: IMPLEMENT THIS METHOD
+def insertionSort(list, start, end):
+	#TODO: IMPLEMENT INSERTION SORT
 
 def partition(list, i, j):
-	#TODO: PARTITION FOR QUICKSORT
+	#TODO: NEED PARTITION FOR QUICKSORT
 
 def quickSort(list, i, j, minSize):
-	#TODO: IMPLEMENT QUICKSORT (THIS ONE IS THE ONE CALLED BY THE DRIVER) 
+	#TODO: IMPLEMENT QUICKSORT
