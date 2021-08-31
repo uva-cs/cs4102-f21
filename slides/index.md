@@ -13,11 +13,11 @@ CS4102 - Algorithms
 | 2 | Tue, Aug. 31 | | Quicksort <br/> (Readings: CLRS Ch. 7 thru p. 175) | (slides coming soon) | |
 |  | Thu, Sep. 2 | M2: Div. and Con. - Recurrence Relations | Solving Recurrences pt. 1 <br/> Readings: CLRS Ch. 4.3-4.5 | <a href="./recurrences.pptx">pptx</a> |  |
 | 3 | Tue, Sep. 7 |  | Recurrence Relations pt. 2 | Same as above | M1: Sorting |
-|  | Thu, Sep. 9 | M3: Div. and Con. - Advanced | | ... |  |
-| 4 | Tue, Sep. 14 |  | | ... | M2: Recurrence Relations |
-|  | Thu, Sep. 16 | M4: Graphs - BFS and DFS | | ... |  |
+|  | Thu, Sep. 9 | M3: Div. and Con. - Advanced | Trominos and Closest Pair of Points <br/> Readings: CLRS Ch. 33.4 | <a href="./DivAndCon_Advanced_1.pptx">pptx</a> |  |
+| 4 | Tue, Sep. 14 |  | Matrix Multiply, Quickselect, Median of Medians <br/> Readings: CLRS Ch. 4.2, Ch. 9 | <a href="./DivAndCon_Advanced_2.pptx">pptx</a> | M2: Recurrence Relations |
+|  | Thu, Sep. 16 | M4: Graphs - BFS and DFS | BFS <br/> Readings: CLRS 22.1-22.2 | <a href="./graphs-bfs-f21.pptx">pptx</a> |  |
 | 5 | Tue, Sep. 21 | QUIZ ATTEMPT 1 | | ... | M3: Closest Pair of Points |
-|  | Thu, Sep. 23 |  | | ... |  |
+|  | Thu, Sep. 23 |  | DFS, Topo-sort, SCC <br/> Readings: CLRS 22.3-22.5 | <a href="./graphs-dfs-f21.pptx">pptx</a> |  |
 | 6 | Tue, Sep. 28 | M5: Graphs - Kruskal's and Find-Union | | ... | M4: BFS / DFS Written Problems |
 |  | Thu, Sep. 30 |  | | ... |  |
 | 7 | Tue, Oct. 5 | M6: Graphs - Prim's and Dijkstra's | | ... | M5: Wiring |
