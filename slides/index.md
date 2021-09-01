@@ -20,10 +20,10 @@ CS4102 - Algorithms
 |  | Thu, Sep. 16 | M4: Graphs - BFS and DFS | BFS <br/> Readings: CLRS 22.1-22.2 | <a href="./graphs-bfs-f21.pptx">pptx</a> |  |
 | 5 | Tue, Sep. 21 | QUIZ ATTEMPT 1 | | ... | M3: Closest Pair of Points |
 |  | Thu, Sep. 23 |  | DFS, Topo-sort, SCC <br/> Readings: CLRS 22.3-22.5 | <a href="./graphs-dfs-f21.pptx">pptx</a> |  |
-| 6 | Tue, Sep. 28 | M5: Graphs - Kruskal's and Find-Union | | ... | M4: BFS / DFS Written Problems |
-|  | Thu, Sep. 30 |  | | ... |  |
-| 7 | Tue, Oct. 5 | M6: Graphs - Prim's and Dijkstra's | | ... | M5: Wiring |
-|  | Thu, Oct. 7 | QUIZ ATTEMPT 2 | | ... |  |
+| 6 | Tue, Sep. 28 | | DFS, Topo-sort, SCC (cont'd) | ... | |
+|  | Thu, Sep. 30 | M5: Graphs - Kruskal's and Find-Union | | ... | M4: BFS / DFS Written Problems |
+| 7 | Tue, Oct. 5 | M6: Graphs - Prim's and Dijkstra's | | ... | |
+|  | Thu, Oct. 7 | QUIZ ATTEMPT 2 | | ... | M5: Wiring |
 | 8 | Tue, Oct. 12 | NO CLASS: FALL BREAK | | ... |  |
 |  | Thu, Oct. 14 |  | | ... |  |
 | 9 | Tue, Oct. 19 | M7: Greedy Algorithms | | ... | M6: Written Graph Problems |
