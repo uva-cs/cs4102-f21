@@ -47,7 +47,12 @@ In addition, there are **three types of office hours**. These are described belo
 
 | Day | Time | Type (Location) | 
 |---|-----|------|
+| Monday | 11:00 - noon | Horton (Rice 402) |
+| Tuesday | 10:30 - 11:30 am | Horton (Rice 402) |
 | Tuesday | 11:00am - 12:30pm | Floryan (Discord) |
+| Wednesday | 3:30 - 4:30 pm | Horton (Rice 402) |
+| Thursday | 10:30 - 11:30 am | Horton (Rice 402) |
+| Friday | 2:00 - 3:00 pm | Horton (Rice 402) |
 
 #### TA Office Hours 
 
@@ -56,7 +61,7 @@ In addition, there are **three types of office hours**. These are described belo
 | Sunday | 7pm - 10pm | General OH (OLS 001) | Module 1 Topic-Focused (Discord) | Module 6 Topic-Focused (Discord) |
 | Monday | 7pm - 10pm | General OH (OLS 001) | Module 2 Topic-Focused (Discord) | Module 7 Topic-Focused (Discord) |
 | Tuesday | 7pm - 10pm | General OH (OLS 001) | Module 3 Topic-Focused (Discord) | Module 8 Topic-Focused (Discord) |
-| Wednesday | 7pm - 10pm | General OH (OLS 001) | Module 4 Topic-Focused (Discord) | Module 9 Topic-Focused (Discord) |
+| Wednesday | 7pm - 10pm | General OH (Rice 442) | Module 4 Topic-Focused (Discord) | Module 9 Topic-Focused (Discord) |
 | Thursday | 7pm - 10pm | General OH (OLS 001) | Module 5 Topic-Focused (Discord) | Module 10 Topic-Focused (Discord) |
 
 \ \ \ 
