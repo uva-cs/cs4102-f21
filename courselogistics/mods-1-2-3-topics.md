@@ -85,5 +85,8 @@ Topics that will *not* be covered on these quizzes include:
 - The recurrence tree method for solving recurrences
 - The math that gets us the average case for Quicksort
 - The details of the matrix algebra that make Strassen's algorithm calculate the right product
-- How to derive the recurrence for using median of medias with Quickselect <!--- or how to use induction to reduce it -->
+- How to derive the recurrence for using median of medias with Quickselect 
+<!---
+or how to use induction to reduce it 
+--->
 - Trominoes
