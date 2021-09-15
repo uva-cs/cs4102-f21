@@ -9,7 +9,7 @@ CS4102 - Algorithms: Homework Assignments
 
 We will be using [Gradescope](https://gradescope.com) for this course. Check out the [Gradescope Information Page](./gradescope.html) for information on how to submit programming assignments to Gradescope.
 
-That page also explains how the score reported by Gradescope translates to the three-level scale of *Incomplete, and Pass* that is used in this course.
+That page also explains how the score reported by Gradescope translates to the two-level scale of *Incomplete, and Pass* that is used in this course.
 
 <a name="introduction"></a>Assignments
 --------------------------------------- 
