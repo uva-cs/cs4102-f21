@@ -18,7 +18,7 @@ CS4102 - Algorithms
 |  | Thu, Sep. 9 | M3: Div. and Con. - Advanced | Trominos and Closest Pair of Points <br/> Readings: CLRS Ch. 33.4 | <a href="./DivAndCon_Advanced_1.pptx">pptx</a>, [pdf](./DivAndCon_Advanced_1.pdf) |  |
 | 4 | Tue, Sep. 14 |  | Matrix Multiply, Quickselect, Median of Medians <br/> Readings: CLRS Ch. 4.2, Ch. 9 | <a href="./DivAndCon_Advanced_2.pptx">pptx</a>, [pdf](./DivAndCon_Advanced_2.pdf) | M2: Recurrence Relations |
 |  | Thu, Sep. 16 | M4: Graphs - BFS and DFS | BFS <br/> Readings: CLRS 22.1-22.2 | <a href="./graphs-bfs-f21.pptx">pptx</a>, [pdf](./graphs-bfs-f21.pdf) |  |
-| 5 | Tue, Sep. 21 | QUIZ ATTEMPT 1 | | ... | M3: Closest Pair of Points |
+| 5 | Tue, Sep. 21 | QUIZ ATTEMPT 1 | * **[Info and topics for Quizzes 1-3](../courselogistics/mods-1-2-3-topics.html)** * | ... | M3: Closest Pair of Points |
 |  | Thu, Sep. 23 |  | DFS, Topo-sort, SCC <br/> Readings: CLRS 22.3-22.5 | <a href="./graphs-dfs-f21.pptx">[pptx]</a> |  |
 | 6 | Tue, Sep. 28 | | DFS, Topo-sort, SCC (cont'd) | Same as above | |
 |  | Thu, Sep. 30 | M5: Graphs - Kruskal's and Find-Union | Implementation of Find-Union D.S. | [[pptx](./kruskal-find-union.pptx)] | M4: BFS / DFS Written Problems |
