@@ -47,12 +47,12 @@ In addition, there are **three types of office hours**. These are described belo
 
 | Day | Time | Type (Location) | 
 |---|-----|------|
-| Monday | 11:00 - noon | Horton (Rice 402) |
-| Tuesday | 10:30 - 11:30 am | Horton (Rice 402) |
+| Monday | 11:00 - noon | Horton (Rice 401) |
+| Tuesday | 10:30 - 11:30 am | Horton (Rice 401) |
 | Tuesday | 11:00am - 12:30pm | Floryan (Discord) |
-| Wednesday | 3:30 - 4:30 pm | Horton (Rice 402) |
-| Thursday | 10:30 - 11:30 am | Horton (Rice 402) |
-| Friday | 2:00 - 3:00 pm | Horton (Rice 402) |
+| Wednesday | 3:30 - 4:30 pm | Horton (Rice 401) |
+| Thursday | 10:30 - 11:30 am | Horton (Rice 401) |
+| Friday | 2:00 - 3:00 pm | Horton (Rice 401) |
 
 #### TA Office Hours 
 
