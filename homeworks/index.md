@@ -19,7 +19,7 @@ That page also explains how the score reported by Gradescope translates to the t
 | Module 1 | Div. and Con.: Insertion sort, Mergesort, and Quicksort | <a href="./fall2021/m1-sorting.pdf">Sorting</a> (grab the <a href="./fall2021/sortingCode.zip">code here</a>) |
 | Module 2 | Div. and Con.: Recurrence Relations | <a href="./fall2021/m2-recurrences/recurrenceRelations.pdf">Recurrence Relations</a> |
 | Module 3 | Div. and Con.: Advanced Topics | <a href="./fall2021/m3-cpp/trading.pdf">Trading</a> |
-| Module 4 | Graphs: BFS and DFS | TBD |
+| Module 4 | Graphs: BFS and DFS | [Written Graph Problems](./fall2021/m4-BfsAndDfs/BfsDfsWritten.pdf) |
 | Module 5 | Graphs: Kruskal's and Find-Union | TBD |
 | Module 6 | Graphs: Prim's and Dijkstra's | TBD |
 | Module 7 | Greedy algorithms | TBD |
