@@ -6,7 +6,11 @@ CS4102 - Algorithms: Exams
 <a name="introduction"></a>Quiz Results / Curves / Pass Thresholds
 --------------------------------------- 
 
-This page contains info on how your quiz grades on Gradescope translate into passing grades, or high-pass grades. The following table contains the pertinent information:
+This page contains info on how your quiz grades on Gradescope translate into passing grades, or high-pass grades. To pass a quiz you need to earn an **80%** or higher and to earn a high-pass you need a **90%** or higher. However, there is a **curve** that is added to your flat score (as shown on Gradescope) to help everyone out a bit. If your score + curve is higher than **80%**, then you pass a quiz. 
+
+Alternatively, you can check to see if your score on Gradescope (without the curve points added) hits the threshold shown in the **before curve** columns of the table below. If you take your score (on Gradescope) and add the curve points to it, then you would look up that sum in the **after curve** columns below.
+
+The following table contains the pertinent information:
 
 | Quiz | Attempt | Max Points | Curve | Pass Score (before curve) | Pass Score (after curve) | High-Pass Score (before curve) | High-Pass Score (after curve) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
