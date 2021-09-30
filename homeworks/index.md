@@ -20,7 +20,7 @@ That page also explains how the score reported by Gradescope translates to the t
 | Module 2 | Div. and Con.: Recurrence Relations | <a href="./fall2021/m2-recurrences/recurrenceRelations.pdf">Recurrence Relations</a> |
 | Module 3 | Div. and Con.: Advanced Topics | <a href="./fall2021/m3-cpp/trading.pdf">Trading</a> |
 | Module 4 | Graphs: BFS and DFS | [Written Graph Problems](./fall2021/m4-BfsAndDfs/BfsDfsWritten.pdf) |
-| Module 5 | Graphs: Kruskal's and Find-Union | TBD |
+| Module 5 | Graphs: Kruskal's and Find-Union | [Wiring](./fall2021/m5-findUnion/wiring.pdf) |
 | Module 6 | Graphs: Prim's and Dijkstra's | TBD |
 | Module 7 | Greedy algorithms | TBD |
 | Module 8 | Dynamic Programming | TBD |
