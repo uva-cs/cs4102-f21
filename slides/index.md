@@ -23,12 +23,12 @@ CS4102 - Algorithms
 | 6 | Tue, Sep. 28 | | DFS, Topo-sort, SCC (cont'd) | Same as above | |
 |  | Thu, Sep. 30 | M5: Graphs - Kruskal's and Find-Union | Implementation of Find-Union D.S. | [[pptx](./kruskal-find-union.pptx)] | M4: BFS / DFS Written Problems |
 | 7 | Tue, Oct. 5 | M6: Graphs - Prim's and Dijkstra's | Prim,Dijkstra,Indirect Heaps | [[pptx](./primAndDijkstra.pptx)] | |
-|  | Thu, Oct. 7 | QUIZ ATTEMPT 2 | | ... | M5: Wiring |
-| 8 | Tue, Oct. 12 | NO CLASS: FALL BREAK | | ... |  |
+|  | Thu, Oct. 7 | QUIZ RETAKES (Mod 1-3) | No Lecture | ... | M5: Wiring |
+| 8 | Tue, Oct. 12 | NO CLASS: FALL BREAK | No Lecture | ... |  |
 |  | Thu, Oct. 14 |  | Proving Prim's and Dijkstra's | No Slides |  |
-| 9 | Tue, Oct. 19 | M7: Greedy Algorithms | Intro to Greedy and Coin Change | [[pptx](./GreedyAlgorithms_1.pptx)] | M6: Written Graph Problems |
+| 9 | Tue, Oct. 19 | QUIZ ATTEMPT 2 (Mod 4-5)<br/>M7: Greedy Algorithms | Intro to Greedy and Coin Change<br/>(Note: Lecture Recorded) | [[pptx](./GreedyAlgorithms_1.pptx)] | M6: Written Graph Problems |
 |  | Thu, Oct. 21 |  | Knapsack Problem | Same as above |  |
-| 10 | Tue, Oct. 26 | *SEAS DROP DEADLINE* | Activity Selection | Same as above |  |
+| 10 | Tue, Oct. 26 | | Activity Selection | Same as above |  |
 |  | Thu, Oct. 28 | M8: Dynamic Programming | | ... |  |
 | 11 | Tue, Nov. 2 |  | | ... | M7: Nursery |
 |  | Thu, Nov. 4 |  | | ... |  |
@@ -37,7 +37,7 @@ CS4102 - Algorithms
 | 13 | Tue, Nov. 16 | QUIZ ATTEMPT 3 | | ... | M8: Drainage |
 |  | Thu, Nov. 18 |  | | ... |  |
 | 14 | Tue, Nov. 23 | M10: Bi-Partite Matching and Reductions | | ... | M9: Network Flow Written |
-|  | Thu, Nov. 25 | NO CLASS: THANKSGIVING BREAK | | ... |  |
+|  | Thu, Nov. 25 | NO CLASS: THANKSGIVING BREAK | No Lecture | ... |  |
 | 15 | Tue, Nov. 30 |  | | ... | |
 |  | Thu, Dec. 2 | QUIZ ATTEMPT 4 | | ... |  |
 | 16 | Tue, Dec. 7 |  | | ... | M10: Scheduling |
