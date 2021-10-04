@@ -45,6 +45,11 @@ Given the layout of the different junction points and the cost of wiring them to
 	\item junction boxes (and outlets) should never be behind switches in your spanning tree. Thus, once your spanning tree reaches a switch, only lights (though many of them potentially) will be behind the switch.
 \end{itemize}
 
+{\bf Update!}  We have posted a help document with some advice and hints at this link: \\
+\begin{verb}
+https://bit.ly/3iwXrEL
+\end{verb}
+
 \subsection*{Input}
 The input file will begin with one line containing integers $J$ and $C$, the number of junction points and the number of possible connections respectively. The next $J$ lines will each specify the name of a junction point along with the type (breaker, switch, light, outlet, box). When a switch is listed, the lights that need to be behind that switch will be always listed next to indicate this dependency. There will only be one breaker box. The next $C$ lines specify the connections by providing the name of two junction points and the cost between them.
 
