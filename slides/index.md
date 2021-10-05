@@ -22,7 +22,7 @@ CS4102 - Algorithms
 |  | Thu, Sep. 23 |  | DFS, Topo-sort, SCC <br/> Readings: CLRS 22.3-22.5 | <a href="./graphs-dfs-f21.pptx">[pptx]</a>, [pdf](./graphs-dfs-f21.pdf) |  |
 | 6 | Tue, Sep. 28 | | DFS, Topo-sort, SCC (cont'd) | Same as above | |
 |  | Thu, Sep. 30 | M5: Graphs - Kruskal's and Find-Union | Implementation of Find-Union D.S. | [[pptx](./kruskal-find-union.pptx)] | M4: BFS / DFS Written Problems |
-| 7 | Tue, Oct. 5 | M6: Graphs - Prim's and Dijkstra's | Prim,Dijkstra,Indirect Heaps | [[pptx](./primAndDijkstra.pptx)] | |
+| 7 | Tue, Oct. 5 | M6: Graphs - Prim's and Dijkstra's | Prim,Dijkstra,Indirect Heaps | [[pptx](./dijkstraAndPrim.pptx)] | |
 |  | Thu, Oct. 7 | QUIZ RETAKES (Mod 1-3) | No Lecture | ... | M5: Wiring |
 | 8 | Tue, Oct. 12 | NO CLASS: FALL BREAK | No Lecture | ... |  |
 |  | Thu, Oct. 14 |  | Proving Prim's and Dijkstra's | No Slides |  |
