@@ -18,10 +18,6 @@ The following table contains the pertinent information:
 | Module 2 | 1 | 15 | 1 | 11(73%) | 12(80%) | 12.5(83%) | 13.5(90%) |
 | Module 3 | 1 | 16 | 1 | 12(75%) | 13(81%) | 13.5(84%) | 14.5(91%) |
 
-
-
-
-
 <a name="introduction"></a>Regrades
 --------------------------------------- 
 
@@ -31,3 +27,9 @@ Regrade requests will be accepted via the *Gradescope regrade tool*. We ask that
 
 - You MUST explain the exact reasoning behind your request. If you just say "I feel like this deserves more points", or "that seems harsh", or "my friend put the same answer down" then we will ignore the request. You need to say "I put the answer X and because of lecture Y that is the correct answer" or "Grading guideline X says 1 point is awarded for statement Y and I say statement Y in my answer when I write ...". In short, you need to **justify** the request.
 
+<a name="introduction"></a>Solution Keys
+--------------------------------------- 
+
+Below you can find solution keys to the old quizzes:
+
+- [Quiz Day 1](./QuizAttempt1Sols.pdf): The solutions from the first attempts of modules 1, 2, and 3
