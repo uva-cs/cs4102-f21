@@ -26,7 +26,7 @@ CS4102 - Algorithms
 |  | Thu, Oct. 7 | QUIZ RETAKES (Mod 1-3) | No Lecture | ... | M5: Wiring |
 | 8 | Tue, Oct. 12 | NO CLASS: FALL BREAK | No Lecture | ... |  |
 |  | Thu, Oct. 14 |  | Proving Prim's and Dijkstra's | No Slides |  |
-| 9 | Tue, Oct. 19 | QUIZ ATTEMPT 2 (Mod 4-5)<br/>M7: Greedy Algorithms | Intro to Greedy and Coin Change<br/>(Note: Lecture Recorded) | [[pptx](./GreedyAlgorithms_1.pptx)] | M6: Written Graph Problems |
+| 9 | Tue, Oct. 19 | QUIZ ATTEMPT 1 (Mod 4-5)<br/>M7: Greedy Algorithms | * **[Info and topics for Quizzes 4-5](../courselogistics/mods-4-5-topics.html)** *<br/>Intro to Greedy and Coin Change<br/>(Note: Lecture Recorded) | [[pptx](./GreedyAlgorithms_1.pptx)] | M6: Written Graph Problems |
 |  | Thu, Oct. 21 |  | Knapsack Problem | Same as above |  |
 | 10 | Tue, Oct. 26 | | Activity Selection | Same as above |  |
 |  | Thu, Oct. 28 | M8: Dynamic Programming | | ... |  |
