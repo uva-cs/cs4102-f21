@@ -63,7 +63,8 @@ Topics that might be covered on the Module 5 quiz include:
     - Time complexity for Kruskal's with Find/Union and its optimizations
     
 - Wiring Programming Homework
-    - (We'll update this section before the weekend.)
+    - The general problem that needs to be solved, including hand calculated solutions to simple test cases.
+    - The ability to describe a solution, or parts of a solution, at a high-level (e.g., describing which edges don't need to be considered, etc.).
 
 Topics that will *not* be covered on the quiz include:
 -------------------------------------------------
