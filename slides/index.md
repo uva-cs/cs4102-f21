@@ -41,4 +41,3 @@ CS4102 - Algorithms
 | 15 | Tue, Nov. 30 |  | | ... | |
 |  | Thu, Dec. 2 | QUIZ ATTEMPT 4 | | ... |  |
 | 16 | Tue, Dec. 7 |  | | ... | M10: Scheduling |
-GreedyAlgorithms_1
