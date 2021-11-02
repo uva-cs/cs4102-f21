@@ -29,7 +29,7 @@ CS4102 - Algorithms
 | 9 | Tue, Oct. 19 | QUIZ ATTEMPT 1 (Mod 4-5)<br/>M7: Greedy Algorithms | * **[Info and topics for Quizzes 4-5](../courselogistics/mods-4-5-topics.html)** *<br/>Intro to Greedy and Coin Change<br/>(Note: Lecture Recorded) | [pptx](./GreedyAlgorithms_1.pptx), [pdf](./GreedyAlgorithms_1.pdf) | M6: Written Graph Problems |
 |  | Thu, Oct. 21 |  | Knapsack Problem | Same as above |  |
 | 10 | Tue, Oct. 26 | | Activity Selection | Same as above |  |
-|  | Thu, Oct. 28 | M8: Dynamic Programming | Intro, Rod Cutting | [pptx](./DynamicProgramming.pptx) |  |
+|  | Thu, Oct. 28 | M8: Dynamic Programming | Intro, Rod Cutting | [pptx](./DynamicProgramming.pptx), [pdf](./DynamicProgramming.pdf) |  |
 | 11 | Tue, Nov. 2 |  | Activity Selection, Knapsack | Same as above | M7: Nursery |
 |  | Thu, Nov. 4 |  | Coin Change, Sequences | [pptx](./DP_sequences.pptx) |  |
 | 12 | Tue, Nov. 9 | M9: Network Flow and Ford-Fulkerson | | ... |  |
