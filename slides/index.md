@@ -32,11 +32,11 @@ CS4102 - Algorithms
 |  | Thu, Oct. 28 | M8: Dynamic Programming | Intro, Rod Cutting | [pptx](./DynamicProgramming.pptx), [pdf](./DynamicProgramming.pdf) |  |
 | 11 | Tue, Nov. 2 |  | Activity Selection, Knapsack | Same as above | M7: Nursery |
 |  | Thu, Nov. 4 |  | Coin Change, Sequences | [pptx](./DP_sequences.pptx) |  |
-| 12 | Tue, Nov. 9 | M9: Network Flow and Ford-Fulkerson | | ... |  |
-|  | Thu, Nov. 11 | QUIZ RETAKES (Mod 4-5) | | |  |
-| 13 | Tue, Nov. 16 | QUIZ ATTEMPT 1 (Mod 6-8) | | ... | M8: Drainage |
-|  | Thu, Nov. 18 | M10: Bi-Partite Matching and Reductions | | ... |  |
-| 14 | Tue, Nov. 23 |  | | ... | M9: Network Flow Written |
+| 12 | Tue, Nov. 9 | M9: Network Flow and Ford-Fulkerson | Network Flow, Ford-Fulkerson Algorithm | [[pptx](./Network-Flow.pptx)] |  |
+|  | Thu, Nov. 11 | QUIZ RETAKES (Mod 4-5) | Max-Flow Min-Cut Theorem, Proof | Same as above |  |
+| 13 | Tue, Nov. 16 | QUIZ ATTEMPT 1 (Mod 6-8) | | NO LECTURE | M8: Drainage |
+|  | Thu, Nov. 18 | M10: Bi-Partite Matching and Reductions | Disjoint Paths, Intro to Reductions | [[pptx](./Bipartite-Reductions.pptx)] |  |
+| 14 | Tue, Nov. 23 |  | Bipartite Matching, Max-Flow Variations | Same as above | M9: Network Flow Written |
 |  | Thu, Nov. 25 | NO CLASS: THANKSGIVING BREAK | No Lecture | ... |  |
 | 15 | Tue, Nov. 30 |  | | ... | |
 |  | Thu, Dec. 2 | QUIZ RETAKES (Mod 6-8) | | ... | M10: Scheduling |
