@@ -32,7 +32,7 @@ CS4102 - Algorithms
 |  | Thu, Oct. 28 | M8: Dynamic Programming | Intro, Rod Cutting | [pptx](./DynamicProgramming.pptx), [pdf](./DynamicProgramming.pdf) |  |
 | 11 | Tue, Nov. 2 |  | Activity Selection, Knapsack | Same as above | M7: Nursery |
 |  | Thu, Nov. 4 |  | Coin Change, Sequences | [pptx](./DP_sequences.pptx) |  |
-| 12 | Tue, Nov. 9 | M9: Network Flow and Ford-Fulkerson | Network Flow, Ford-Fulkerson Algorithm | [[pptx](./Network-Flow.pptx)] |  |
+| 12 | Tue, Nov. 9 | M9: Network Flow and Ford-Fulkerson | Network Flow, Ford-Fulkerson Algorithm | [[pptx](./Network-Flow.pptx)] <br/> Horton's [pptx](./Network-Flow_horton-f21.pptx), [pdf](./Network-Flow_horton-f21.pdf) |  |
 |  | Thu, Nov. 11 | QUIZ RETAKES (Mod 4-5) | Max-Flow Min-Cut Theorem, Proof | Same as above |  |
 | 13 | Tue, Nov. 16 | QUIZ ATTEMPT 1 (Mod 6-8) | | NO LECTURE | M8: Drainage |
 |  | Thu, Nov. 18 | M10: Bi-Partite Matching and Reductions | Disjoint Paths, Intro to Reductions | [[pptx](./Bipartite-Reductions.pptx)] |  |
