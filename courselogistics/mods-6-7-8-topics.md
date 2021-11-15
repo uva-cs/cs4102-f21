@@ -88,6 +88,7 @@ Topics that might be covered on the Module 8 quiz include:
     - The DP solution (its advantage over greedy, the "i,j" problem, etc.)
 
 - Sequence Problems: string-edit distance and LCS
+	- **UPDATE as of 11/15:** There will NOT be any questions on sequence problems on the quiz! You can safely ignore the topics listed next.
 	- *Note:*  Floryan lectured on string-edit distance and Horton lectured on LCS. You will be able to choose which problem to answer questions about on the quiz
     - Prefix-strings as subproblems
     - String-edit distance
