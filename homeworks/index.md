@@ -24,8 +24,8 @@ That page also explains how the score reported by Gradescope translates to the t
 | Module 6 | Graphs: Prim's and Dijkstra's | [More Graphs!](./fall2021/m6-primDijkstra/primDijkstraWritten.pdf) |
 | Module 7 | Greedy algorithms | [Daycare](./fall2021/m7-greedy/daycare.pdf) |
 | Module 8 | Dynamic Programming | [Drainage](./fall2021/m8-dp/drainage.pdf) |
-| Module 9 | Network Flow and Ford-Fulkerson | TBD |
-| Module 10 | Bi-Partite Matching and Reductions | TBD |
+| Module 9 | Network Flow and Ford-Fulkerson | [Flow Written](./fall2021/m9-flow/networkFlow.pdf) |
+| Module 10 | Bi-Partite Matching and Reductions | [Scheduling](./fall2021/m10-reductions/scheduling.pdf) |
 
 
 <a name="other"></a>Other Useful Stuff
