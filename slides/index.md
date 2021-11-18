@@ -35,7 +35,7 @@ CS4102 - Algorithms
 | 12 | Tue, Nov. 9 | M9: Network Flow and Ford-Fulkerson | Network Flow, Ford-Fulkerson Algorithm | [[pptx](./Network-Flow.pptx)] <br/> Horton's [pptx](./Network-Flow_horton-f21.pptx), [pdf](./Network-Flow_horton-f21.pdf) |  |
 |  | Thu, Nov. 11 | QUIZ RETAKES (Mod 4-5) | Max-Flow  | Same as above |  |
 | 13 | Tue, Nov. 16 | QUIZ ATTEMPT 1 (Mod 6-8) | * **[Info and topics for Quizzes 6-8](../courselogistics/mods-6-7-8-topics.html)** *<br/>Proof and Min Cut Theorem<br/>(Note: Recorded Lecture)  | [pptx](./Maxcut-Minflow-f21.pptx), [pdf](./Maxcut-Minflow-f21.pdf) | M8: Drainage |
-|  | Thu, Nov. 18 | M10: Bi-Partite Matching and Reductions | Disjoint Paths, Intro to Reductions | [[pptx](./Bipartite-Reductions.pptx)] |  |
+|  | Thu, Nov. 18 | M10: Bi-Partite Matching and Reductions | Disjoint Paths, Intro to Reductions | [pptx](./Bipartite-Reductions.pptx), [pdf](./Bipartite-Reductions.pdf) |  |
 | 14 | Tue, Nov. 23 |  | Bipartite Matching, Max-Flow Variations | Same as above | M9: Network Flow Written |
 |  | Thu, Nov. 25 | NO CLASS: THANKSGIVING BREAK | No Lecture | ... |  |
 | 15 | Tue, Nov. 30 |  | | ... | |
