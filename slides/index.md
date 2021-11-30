@@ -38,6 +38,6 @@ CS4102 - Algorithms
 |  | Thu, Nov. 18 | M10: Bi-Partite Matching and Reductions | Disjoint Paths, Intro to Reductions | [pptx](./Bipartite-Reductions.pptx), [pdf](./Bipartite-Reductions.pdf) |  |
 | 14 | Tue, Nov. 23 |  | Bipartite Matching, Max-Flow Variations | Same as above | M9: Network Flow Written |
 |  | Thu, Nov. 25 | NO CLASS: THANKSGIVING BREAK | No Lecture | ... |  |
-| 15 | Tue, Nov. 30 |  | NP-Complete (No quiz on this material) | [pptx](./npc-floryan-s21.pptx) | |
+| 15 | Tue, Nov. 30 |  | NP-Complete (No quiz on this material) | [pptx](./npc-floryan-s21.pptx), [pdf](./npc-floryan-s21.pdf) | |
 |  | Thu, Dec. 2 | QUIZ RETAKES (Mod 6-8) | | ... | M10: Scheduling |
 | 16 | Tue, Dec. 7 | QUIZ ATTEMPT 1 (Mod 9-10) |* **[Info and topics for Quizzes 9-10](../courselogistics/mods-9-10-topics.html)** *| ... |  |
