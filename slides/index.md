@@ -40,4 +40,4 @@ CS4102 - Algorithms
 |  | Thu, Nov. 25 | NO CLASS: THANKSGIVING BREAK | No Lecture | ... |  |
 | 15 | Tue, Nov. 30 |  | NP-Complete (No quiz on this material) | [pptx](./npc-floryan-s21.pptx) | |
 |  | Thu, Dec. 2 | QUIZ RETAKES (Mod 6-8) | | ... | M10: Scheduling |
-| 16 | Tue, Dec. 7 | QUIZ ATTEMPT 1 (Mod 9-10) | | ... |  |
+| 16 | Tue, Dec. 7 | QUIZ ATTEMPT 1 (Mod 9-10) |* **[Info and topics for Quizzes 9-10](../courselogistics/mods-9-10-topics.html)** *| ... |  |
