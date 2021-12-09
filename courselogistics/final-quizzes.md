@@ -32,7 +32,11 @@ If you meet one of these criteria, there will only be two other days and times y
 - Mon., 12/13:  1:00 - 4:00 pm
 - Weds., 12/15:  9:00 am - 12 noon
 
-If you believe you meet one of the conditions above and want to take the exam at one of these other two times, complete [this form](https://forms.gle/vGy19cF29CmsJW4A8) by **Sunday, 12/12 at noon.** We'll email you back to tell you we've approved your request and give you details about where to go.
+If you believe you meet one of the conditions above and want to take the exam at one of these other two times, complete [this form](https://forms.gle/t7e3iA8zKguXAgPv9) by **Sunday, 12/12 at noon.** We'll email you back to tell you we've approved your request and give you details about where to go.
+
+Away From Grounds?
+------------------
+We'd like everyone to take quizzes under supervision in a classroom here. But if you won't be on Grounds, explain that in form listed above. If we are OK with your explanation, then we will allow you to take them remotely. But you must take them in one of the time-periods given above.
 
 Office Hours:
 ----------------

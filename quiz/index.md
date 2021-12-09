@@ -3,6 +3,10 @@ CS4102 - Algorithms: Exams
 
 [Back to Main Page](../readme.html)
 
+Final Exam Period Info:
+-----------------
+For all info about quiz re-takes in the final exam period, [see this page](../courselogistics/final-quizzes.html)
+
 <a name="introduction"></a>Quiz Results / Curves / Pass Thresholds
 --------------------------------------- 
 

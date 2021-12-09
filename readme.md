@@ -3,6 +3,10 @@ CS4102 - Algorithms
 
 [Introduction](#introduction) | [Repository contents](#contents) | [Contributing to this repository](#contributing) | [Course description](#description) | [License](#license)
 
+Final Exam Period Info:
+-----------------
+For all info about quiz re-takes in the final exam period, [see this page](./courselogistics/final-quizzes.html)
+
 <a name="introduction"></a>Introduction
 ---------------------------------------
 
