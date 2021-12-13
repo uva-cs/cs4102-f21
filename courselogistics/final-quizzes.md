@@ -19,6 +19,10 @@ During the final exam period, you can re-attempt any of the 10 quizzes from the 
 
 **Important:** if you plan to take quizzes, please complete [this form](https://forms.gle/cWHu1hDyLh1vnYwX7) telling us which ones you *might* take.  This will help us make sure we have enough copies.  **Complete the form by noon, Monday, Dec. 13.**  Thanks!
 
+Do I Have to Arrive at the Start of the Time Period?
+---------------
+On Tuesday, 12/14, it's OK with us if you arrive later than 7:00 pm. Perhaps you only have one or two exams to complete. Everyone must be finished by 10 PM. (If everyone finishes before that time, the instructors will leave before 10 PM.)
+
 Conflicts or Issues with Our Final Exam Period
 ---------------
 
