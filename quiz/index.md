@@ -58,8 +58,8 @@ Below you can find solution keys to the old quizzes:
 
 We don't have keys yet for the following, but here are the "blank" tests:
 
-- [Quizzes 1, 2 and 3 -- attempt 2](./quiz-1-2-3-a2-blank.pdf)
-- [Quizzes 4 and 5 -- attempt 1](./quiz-4-5-a1-blank.pdf)
-- [Quizzes 6, 7 and 8 -- attempt 2](./quiz-6-7-8-a2-blank.pdf)
+- [Quizzes 1, 2 and 3 -- attempt 2](./blank/quiz-1-2-3-a2-blank.pdf)
+- [Quizzes 4 and 5 -- attempt 1](./blank/quiz-4-5-a1-blank.pdf)
+- [Quizzes 6, 7 and 8 -- attempt 2](./blank/quiz-6-7-8-a2-blank.pdf)
 
 
