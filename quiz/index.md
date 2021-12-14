@@ -51,7 +51,15 @@ Regrade requests will be accepted via the *Gradescope regrade tool*. We ask that
 
 Below you can find solution keys to the old quizzes:
 
-- [Quiz Day 1](./QuizAttempt1Sols.pdf): The solutions from the first attempts of modules 1, 2, and 3
-- [Quizzes 6, 7 and 8 -- attempt 1](./quiz-soln-6-7-8-v1.pdf):  (all 3 now in this file)
+- [Quizzes 1, 2 and 3 -- attempt 1](./QuizAttempt1Sols.pdf)
+- [Quizzes 4 and 5 -- attempt 2](./quiz-soln-4-5-a2.pdf)
+- [Quizzes 6, 7 and 8 -- attempt 1](./quiz-soln-6-7-8-v1.pdf)
 - [Quizzes 9 and 10 -- attempt 1](./quizzes-9-10-attempt1-key.pdf)
+
+We don't have keys yet for the following, but here are the "blank" tests:
+
+- [Quizzes 1, 2 and 3 -- attempt 2](./quiz-1-2-3-a2-blank.pdf)
+- [Quizzes 4 and 5 -- attempt 1](./quiz-4-5-a1-blank.pdf)
+- [Quizzes 6, 7 and 8 -- attempt 2](./quiz-6-7-8-a2-blank.pdf)
+
 
