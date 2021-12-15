@@ -14,7 +14,7 @@ This page contains info on how your quiz grades on Gradescope translate into pas
 
 Alternatively, you can check to see if your score on Gradescope (without the curve points added) hits the threshold shown in the **before curve** columns of the table below. If you take your score (on Gradescope) and add the curve points to it, then you would look up that sum in the **after curve** columns below.
 
-The following table contains the pertinent information:
+The following two tables contain the pertinent information.  The first table is for   attempts that happened in lecture, and the second table is for the re-takes during the final exam period.
 
 | Quiz | Attempt | Max Points | Curve | Pass Score (before curve) | Pass Score (after curve) | High-Pass Score (before curve) | High-Pass Score (after curve) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -36,6 +36,21 @@ The following table contains the pertinent information:
 | Module 8 | 2 | 19 | 1.5 | 14(74%) | 15.5(82%) | 16(84%) | 17.5(92%) |
 | Module 9 | 1 | 18 | 1.5 | 13(72%) | 14.5(80%) | 15(83%) | 16.5(91%) |
 | Module 10 | 1 | 18.5 | 1.5 | 13.5(73%) | 15(81%) | 15.5(84%) | 17(92%) |
+
+The following are the curves for the re-takes given during the final exam period. Unlike the ones above, they have NOT been adjusted to the nearest half-point. Your score in GradeScope must reach the "before curve" value to achieve that level of pass -- there will be no rounding up.
+
+| Quiz | Attempt | Max Points | Curve | Pass Score (before curve) | Pass Score (after curve) | High-Pass Score (before curve) | High-Pass Score (after curve) |
+| --- | --- | --- | ---   | --- | --- | --- | --- |
+| Module 1 | 3 | 22 | 2.1 | 15.5(70.5%) | 17.6(80%) | 17.7(80.5%) | 19.8(90%) |
+| Module 2 | 3 | 18 | 1.5 | 12.9(71.7%) | 14.4(80%) | 14.7(81.7%) | 16.2(90%) |
+| Module 3 | 3 | 15 | 2.0 | 10.0(66.7%) | 12(80%) | 11.5(76.7%) | 13.5(90%) |
+| Module 4 | 3 | 18 | 1.5 | 12.9(71.7%) | 14.4(80%) | 14.7(81.7%) | 16.2(90%) |
+| Module 5 | 3 | 20 | 1.0 | 15.0(75%) | 16.0(80%) | 17.0(85%) | 18.0(90%) |
+| Module 6 | 3 | 17 | 1.1 | 12.5(73.5%) | 13.6(80%) | 14.2(83.5%) | 15.3(90%) |
+| Module 7 | 3 | 18 | 1.0 | 13.4(74.4%) | 14.4(80%) | 15.2(84.4%) | 16.2(90%) |
+| Module 8 | 3 | 19 | 2.2 | 13.0(68.4%) | 15.2(80%) | 14.9(78.4%) | 17.1(90%) |
+| Module 9 | 2 | 19 | 1.7 | 13.5(71.1%) | 15.2(80%) | 15.4(81.1%) | 17.1(90%) |
+| Module 10 | 2 | 16 | 2.3 | 10.5(65.6%) | 12.8(80%) | 12.1(75.6%) | 14.4(90%) |
 
 <a name="introduction"></a>Regrades
 --------------------------------------- 
